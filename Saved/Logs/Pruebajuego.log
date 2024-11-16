@@ -2359,3 +2359,136 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.16-10.34.24:455][820]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
 [2024.11.16-10.34.24:455][820]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
 [2024.11.16-10.34.24:455][820]LogAnalyticsSessionSummarySender: Sent summary session report for: AppId=UEEditor.Rocket.Release SessionId={DC076B11-4915-4420-94FA-29986488DAC5}
+[2024.11.16-10.36.41:267][448]LogStreaming: Display: FlushAsyncLoading(431): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.16-10.36.46:868][769]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.16-10.36.46:981][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.11.16-10.36.46:985][769]LogSavePackage: Moving output files for package: /Game/JuegoPrueba/mapas/PlaygroundMap
+[2024.11.16-10.36.46:985][769]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Saved/PlaygroundMapBD9EF3C40AE641C39F14D37305687F0F.tmp' to '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Content/JuegoPrueba/mapas/PlaygroundMap.umap'
+[2024.11.16-10.36.46:987][769]LogFileHelpers: Saving map 'PlaygroundMap' took 0.019
+[2024.11.16-10.36.47:033][769]LogFileHelpers: InternalPromptForCheckoutAndSave took 165.180 ms (total: 576.338 ms)
+[2024.11.16-10.36.47:073][769]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.16-10.36.47:073][769]LogContentValidation: Enabled validators:
+[2024.11.16-10.36.47:073][769]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.16-10.36.47:073][769]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.16-10.36.47:073][769]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.16-10.36.47:073][769]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.16-10.36.47:073][769]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.16-10.36.47:073][769]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.16-10.36.47:073][769]AssetCheck: /Game/JuegoPrueba/mapas/PlaygroundMap Validando recurso
+[2024.11.16-10.37.15:516][134]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2024.11.16-10.37.15:524][134]LogContentBundle: [PlaygroundMap(Autónomo)] Generating Streaming for 0 Content Bundles.
+[2024.11.16-10.37.15:524][134]LogWorldPartition: Display: GenerateStreaming for 'PlaygroundMap' started...
+[2024.11.16-10.37.15:525][134]LogWorldPartition: Display: GenerateStreaming for 'PlaygroundMap' took 888 us
+[2024.11.16-10.37.15:525][134]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.16-10.37.15:526][134]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.11.16-10.37.15:526][134]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.11.16-10.37.15:526][134]LogPlayLevel: Creating play world package: /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap
+[2024.11.16-10.37.15:528][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001998s)
+[2024.11.16-10.37.15:528][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoPrueba/mapas/PlaygroundMap.PlaygroundMap to /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap (0.002032s)
+[2024.11.16-10.37.15:538][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.11.16-10.37.15:539][134]LogChaosDD: Creating Chaos Debug Draw Scene for world PlaygroundMap
+[2024.11.16-10.37.15:540][134]LogWorldPartition: ULevel::OnLevelLoaded(PlaygroundMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.16-10.37.15:540][134]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.16-10.37.15:540][134]LogWorldPartition: UWorldPartition::Initialize : World = /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.16-10.37.15:540][134]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.16-10.37.15:541][134]LogWorldPartition: Display: WorldPartition initialize took 658 us (total: 130.525 ms)
+[2024.11.16-10.37.15:541][134]LogPlayLevel: PIE: World Init took: (0.002050s)
+[2024.11.16-10.37.15:541][134]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.11.16-10.37.15:541][134]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.16-10.37.15:541][134]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.16-10.37.15:541][134]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.16-10.37.15:541][134]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.16-10.37.15:541][134]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.16-10.37.15:541][134]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.16-10.37.15:541][134]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.16-10.37.15:541][134]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.16-10.37.15:541][134]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.16-10.37.15:541][134]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.16-10.37.15:541][134]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.16-10.37.15:541][134]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2024.11.16-10.37.15:541][134]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL2'
+[2024.11.16-10.37.15:658][134]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2024.11.16-10.37.15:671][134]LogAudioMixer: Display: Using Audio Hardware Device Family 17h/19h HD Audio Controller Headphones
+[2024.11.16-10.37.15:672][134]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.16-10.37.15:672][134]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.16-10.37.15:672][134]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.16-10.37.15:673][134]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=2
+[2024.11.16-10.37.15:673][134]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.11.16-10.37.15:673][134]LogInit: FAudioDevice initialized with ID 2.
+[2024.11.16-10.37.15:673][134]LogAudio: Display: Audio Device (ID: 2) registered with world 'PlaygroundMap'.
+[2024.11.16-10.37.15:673][134]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.11.16-10.37.15:675][134]LogLoad: Game class is 'BP_GamemodeMain_C'
+[2024.11.16-10.37.15:676][134]LogWorld: Bringing World /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap up for play (max tick rate 0) at 2024.11.16-11.37.15
+[2024.11.16-10.37.15:676][134]LogWorld: Bringing up level for play took: 0.000805
+[2024.11.16-10.37.15:677][134]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2024.11.16-10.37.15:689][134]PIE: El servidor ha iniciado sesión
+[2024.11.16-10.37.15:690][134]PIE: Tiempo de inicio total de la reproducción en el editor de 0,171 segundos.
+[2024.11.16-10.37.15:751][135]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2024.11.16-10.37.15:761][135]LogCore: Error: appError called: Fatal error: [File:./Runtime/VulkanRHI/Private/VulkanMemory.cpp] [Line: 1995] 
+Out of memory on Vulkan; MemoryTypeIndex=1, AllocSize=128.000MB
+0x0000749da03baf59 libUnrealEditor-VulkanRHI.so!VulkanRHI::FVulkanResourceHeap::AllocateResource(VulkanRHI::FVulkanAllocation&, FVulkanEvictable*, VulkanRHI::EType, unsigned int, unsigned int, bool, bool, VulkanRHI::EVulkanAllocationMetaType, bool, char const*, unsigned int) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/VulkanRHI/Private/VulkanMemory.cpp:1995]
+0x0000749da03c02a0 libUnrealEditor-VulkanRHI.so!VulkanRHI::FMemoryManager::AllocateBufferMemory(VulkanRHI::FVulkanAllocation&, FVulkanEvictable*, VkMemoryRequirements const&, unsigned int, VulkanRHI::EVulkanAllocationMetaType, bool, bool, char const*, unsigned int) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/VulkanRHI/Private/VulkanMemory.cpp:3006]
+0x0000749da03c085d libUnrealEditor-VulkanRHI.so!VulkanRHI::FMemoryManager::AllocateBufferMemory(VulkanRHI::FVulkanAllocation&, VkBuffer_T*, VulkanRHI::EVulkanAllocationFlags, char16_t const*, unsigned int) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/VulkanRHI/Private/VulkanMemory.cpp:3054]
+0x0000749da046f332 libUnrealEditor-VulkanRHI.so!FVulkanTransientHeap::FVulkanTransientHeap(FRHITransientHeap::FInitializer const&, FVulkanDevice*) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/VulkanRHI/Private/VulkanTransientResourceAllocator.cpp:36]
+0x0000749da046f76a libUnrealEditor-VulkanRHI.so!FVulkanTransientHeapCache::CreateHeap(FRHITransientHeap::FInitializer const&) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/VulkanRHI/Private/VulkanTransientResourceAllocator.cpp:86]
+0x0000749e17bb7adf libUnrealEditor-RHICore.so!FRHITransientHeapCache::Acquire(unsigned long long, ERHITransientHeapFlags) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/RHICore/Private/RHICoreTransientResourceAllocator.cpp:580]
+0x0000749e17bb848b libUnrealEditor-RHICore.so!FRHITransientResourceHeapAllocator::CreateTextureInternal(FRHITextureDesc const&, char16_t const*, FRHITransientAllocationFences const&, unsigned long long, unsigned int, TFunction<FRHITransientTexture* (FRHITransientHeap::FResourceInitializer const&)>) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/RHICore/Private/RHICoreTransientResourceAllocator.cpp:674]
+0x0000749da046f8f1 libUnrealEditor-VulkanRHI.so!FVulkanTransientResourceAllocator::CreateTexture(FRHITextureDesc const&, char16_t const*, FRHITransientAllocationFences const&) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/VulkanRHI/Private/VulkanTransientResourceAllocator.cpp:100]
+0x0000749e3588a2a7 libUnrealEditor-RenderCore.so!FRDGBuilder::AllocateTransientResources(TArrayView<FRDGBuilder::FCollectResourceOp const, int>) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/RenderCore/Private/RenderGraphBuilder.cpp:3090]
+0x0000749e358835fe libUnrealEditor-RenderCore.so!FRDGBuilder::Execute() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/RenderCore/Private/RenderGraphBuilder.cpp:1959]
+0x0000749e22bc24a9 libUnrealEditor-Renderer.so!FRendererModule::BeginRenderingViewFamilies(FCanvas*, TArrayView<FSceneViewFamily*, int>)::$_2::operator()(FRHICommandListImmediate&) const [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Renderer/Private/SceneRendering.cpp:5436]
+0x0000749e358cf9b1 libUnrealEditor-RenderCore.so!UE::Core::Private::Function::TFunctionRefCaller<FRenderThreadCommandPipe::EnqueueAndLaunch(char16_t const*, unsigned int&, TStatId, TUniqueFunction<void (FRHICommandListImmediate&)>&&)::$_0, void>::Call(void*) [/mnt/horde/++UE5/Sync/Engine/Source/Runtime/Core/Public/Templates/Function.h:470]
+0x0000749e3590b2db libUnrealEditor-RenderCore.so!TGraphTask<TFunctionGraphTaskImpl<void (), (ESubsequentsMode::Type)1> >::ExecuteTask() [/mnt/horde/++UE5/Sync/Engine/Source/Runtime/Core/Public/Templates/Function.h:470]
+0x0000749e3cdc8fa5 libUnrealEditor-Core.so!UE::Tasks::Private::FTaskBase::TryExecuteTask() [/mnt/horde/++UE5/Sync/Engine/Source/Runtime/Core/Public/Tasks/TaskPrivate.h:504]
+0x0000749e3cdc7efd libUnrealEditor-Core.so!FNamedTaskThread::ProcessTasksNamedThread(int, bool) [/mnt/horde/++UE5/Sync/Engine/Source/Runtime/Core/Public/Async/TaskGraphInterfaces.h:482]
+0x0000749e3cdc6d5f libUnrealEditor-Core.so!FNamedTaskThread::ProcessTasksUntil
+
+
+
+[2024.11.16-10.37.16:769][135]LogCore: === Critical error: ===
+Unhandled Exception: SIGSEGV: invalid attempt to write memory at address 0x0000000000000003
+
+[2024.11.16-10.37.16:769][135]LogCore: Fatal error: [File:./Runtime/VulkanRHI/Private/VulkanMemory.cpp] [Line: 1995] 
+Out of memory on Vulkan; MemoryTypeIndex=1, AllocSize=128.000MB
+0x0000749da03baf59 libUnrealEditor-VulkanRHI.so!VulkanRHI::FVulkanResourceHeap::AllocateResource(VulkanRHI::FVulkanAllocation&, FVulkanEvictable*, VulkanRHI::EType, unsigned int, unsigned int, bool, bool, VulkanRHI::EVulkanAllocationMetaType, bool, char const*, unsigned int) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/VulkanRHI/Private/VulkanMemory.cpp:1995]
+0x0000749da03c02a0 libUnrealEditor-VulkanRHI.so!VulkanRHI::FMemoryManager::AllocateBufferMemory(VulkanRHI::FVulkanAllocation&, FVulkanEvictable*, VkMemoryRequirements const&, unsigned int, VulkanRHI::EVulkanAllocationMetaType, bool, bool, char const*, unsigned int) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/VulkanRHI/Private/VulkanMemory.cpp:3006]
+0x0000749da03c085d libUnrealEditor-VulkanRHI.so!VulkanRHI::FMemoryManager::AllocateBufferMemory(VulkanRHI::FVulkanAllocation&, VkBuffer_T*, VulkanRHI::EVulkanAllocationFlags, char16_t const*, unsigned int) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/VulkanRHI/Private/VulkanMemory.cpp:3054]
+0x0000749da046f332 libUnrealEditor-VulkanRHI.so!FVulkanTransientHeap::FVulkanTransientHeap(FRHITransientHeap::FInitializer const&, FVulkanDevice*) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/VulkanRHI/Private/VulkanTransientResourceAllocator.cpp:36]
+0x0000749da046f76a libUnrealEditor-VulkanRHI.so!FVulkanTransientHeapCache::CreateHeap(FRHITransientHeap::FInitializer const&) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/VulkanRHI/Private/VulkanTransientResourceAllocator.cpp:86]
+0x0000749e17bb7adf libUnrealEditor-RHICore.so!FRHITransientHeapCache::Acquire(unsigned long long, ERHITransientHeapFlags) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/RHICore/Private/RHICoreTransientResourceAllocator.cpp:580]
+0x0000749e17bb848b libUnrealEditor-RHICore.so!FRHITransientResourceHeapAllocator::CreateTextureInternal(FRHITextureDesc const&, char16_t const*, FRHITransientAllocationFences const&, unsigned long long, unsigned int, TFunction<FRHITransientTexture* (FRHITransientHeap::FResourceInitializer const&)>) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/RHICore/Private/RHICoreTransientResourceAllocator.cpp:674]
+0x0000749da046f8f1 libUnrealEditor-VulkanRHI.so!FVulkanTransientResourceAllocator::CreateTexture(FRHITextureDesc const&, char16_t const*, FRHITransientAllocationFences const&) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/VulkanRHI/Private/VulkanTransientResourceAllocator.cpp:100]
+0x0000749e3588a2a7 libUnrealEditor-RenderCore.so!FRDGBuilder::AllocateTransientResources(TArrayView<FRDGBuilder::FCollectResourceOp const, int>) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/RenderCore/Private/RenderGraphBuilder.cpp:3090]
+0x0000749e358835fe libUnrealEditor-RenderCore.so!FRDGBuilder::Execute() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/RenderCore/Private/RenderGraphBuilder.cpp:1959]
+0x0000749e22bc24a9 libUnrealEditor-Renderer.so!FRendererModule::BeginRenderingViewFamilies(FCanvas*, TArrayView<FSceneViewFamily*, int>)::$_2::operator()(FRHICommandListImmediate&) const [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Renderer/Private/SceneRendering.cpp:5436]
+0x0000749e358cf9b1 libUnrealEditor-RenderCore.so!UE::Core::Private::Function::TFunctionRefCaller<FRenderThreadCommandPipe::EnqueueAndLaunch(char16_t const*, unsigned int&, TStatId, TUniqueFunction<void (FRHICommandListImmediate&)>&&)::$_0, void>::Call(void*) [/mnt/horde/++UE5/Sync/Engine/Source/Runtime/Core/Public/Templates/Function.h:470]
+0x0000749e3590b2db libUnrealEditor-RenderCore.so!TGraphTask<TFunctionGraphTaskImpl<void (), (ESubsequentsMode::Type)1> >::ExecuteTask() [/mnt/horde/++UE5/Sync/Engine/Source/Runtime/Core/Public/Templates/Function.h:470]
+0x0000749e3cdc8fa5 libUnrealEditor-Core.so!UE::Tasks::Private::FTaskBase::TryExecuteTask() [/mnt/horde/++UE5/Sync/Engine/Source/Runtime/Core/Public/Tasks/TaskPrivate.h:504]
+0x0000749e3cdc7efd libUnrealEditor-Core.so!FNamedTaskThread::ProcessTasksNamedThread(int, bool) [/mnt/horde/++UE5/Sync/Engine/Source/Runtime/Core/Public/Async/TaskGraphInterfaces.h:482]
+0x0000749e3cdc6d5f libUnrealEditor-Core.so!FNamedTaskThread::ProcessTasksUntil
+
+
+0x0000749da03baf59 libUnrealEditor-VulkanRHI.so!VulkanRHI::FVulkanResourceHeap::AllocateResource(VulkanRHI::FVulkanAllocation&, FVulkanEvictable*, VulkanRHI::EType, unsigned int, unsigned int, bool, bool, VulkanRHI::EVulkanAllocationMetaType, bool, char const*, unsigned int) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/VulkanRHI/Private/VulkanMemory.cpp:1995]
+0x0000749da03c02a0 libUnrealEditor-VulkanRHI.so!VulkanRHI::FMemoryManager::AllocateBufferMemory(VulkanRHI::FVulkanAllocation&, FVulkanEvictable*, VkMemoryRequirements const&, unsigned int, VulkanRHI::EVulkanAllocationMetaType, bool, bool, char const*, unsigned int) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/VulkanRHI/Private/VulkanMemory.cpp:3006]
+0x0000749da03c085d libUnrealEditor-VulkanRHI.so!VulkanRHI::FMemoryManager::AllocateBufferMemory(VulkanRHI::FVulkanAllocation&, VkBuffer_T*, VulkanRHI::EVulkanAllocationFlags, char16_t const*, unsigned int) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/VulkanRHI/Private/VulkanMemory.cpp:3054]
+0x0000749da046f332 libUnrealEditor-VulkanRHI.so!FVulkanTransientHeap::FVulkanTransientHeap(FRHITransientHeap::FInitializer const&, FVulkanDevice*) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/VulkanRHI/Private/VulkanTransientResourceAllocator.cpp:36]
+0x0000749da046f76a libUnrealEditor-VulkanRHI.so!FVulkanTransientHeapCache::CreateHeap(FRHITransientHeap::FInitializer const&) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/VulkanRHI/Private/VulkanTransientResourceAllocator.cpp:86]
+0x0000749e17bb7adf libUnrealEditor-RHICore.so!FRHITransientHeapCache::Acquire(unsigned long long, ERHITransientHeapFlags) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/RHICore/Private/RHICoreTransientResourceAllocator.cpp:580]
+0x0000749e17bb848b libUnrealEditor-RHICore.so!FRHITransientResourceHeapAllocator::CreateTextureInternal(FRHITextureDesc const&, char16_t const*, FRHITransientAllocationFences const&, unsigned long long, unsigned int, TFunction<FRHITransientTexture* (FRHITransientHeap::FResourceInitializer const&)>) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/RHICore/Private/RHICoreTransientResourceAllocator.cpp:674]
+0x0000749da046f8f1 libUnrealEditor-VulkanRHI.so!FVulkanTransientResourceAllocator::CreateTexture(FRHITextureDesc const&, char16_t const*, FRHITransientAllocationFences const&) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/VulkanRHI/Private/VulkanTransientResourceAllocator.cpp:100]
+0x0000749e3588a2a7 libUnrealEditor-RenderCore.so!FRDGBuilder::AllocateTransientResources(TArrayView<FRDGBuilder::FCollectResourceOp const, int>) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/RenderCore/Private/RenderGraphBuilder.cpp:3090]
+0x0000749e358835fe libUnrealEditor-RenderCore.so!FRDGBuilder::Execute() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/RenderCore/Private/RenderGraphBuilder.cpp:1959]
+0x0000749e22bc24a9 libUnrealEditor-Renderer.so!FRendererModule::BeginRenderingViewFamilies(FCanvas*, TArrayView<FSceneViewFamily*, int>)::$_2::operator()(FRHICommandListImmediate&) const [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Renderer/Private/SceneRendering.cpp:5436]
+0x0000749e358cf9b1 libUnrealEditor-RenderCore.so!UE::Core::Private::Function::TFunctionRefCaller<FRenderThreadCommandPipe::EnqueueAndLaunch(char16_t const*, unsigned int&, TStatId, TUniqueFunction<void (FRHICommandListImmediate&)>&&)::$_0, void>::Call(void*) [/mnt/horde/++UE5/Sync/Engine/Source/Runtime/Core/Public/Templates/Function.h:470]
+0x0000749e3590b2db libUnrealEditor-RenderCore.so!TGraphTask<TFunctionGraphTaskImpl<void (), (ESubsequentsMode::Type)1> >::ExecuteTask() [/mnt/horde/++UE5/Sync/Engine/Source/Runtime/Core/Public/Templates/Function.h:470]
+0x0000749e3cdc8fa5 libUnrealEditor-Core.so!UE::Tasks::Private::FTaskBase::TryExecuteTask() [/mnt/horde/++UE5/Sync/Engine/Source/Runtime/Core/Public/Tasks/TaskPrivate.h:504]
+0x0000749e3cdc7efd libUnrealEditor-Core.so!FNamedTaskThread::ProcessTasksNamedThread(int, bool) [/mnt/horde/++UE5/Sync/Engine/Source/Runtime/Core/Public/Async/TaskGraphInterfaces.h:482]
+0x0000749e3cdc6d5f libUnrealEditor-Core.so!FNamedTaskThread::ProcessTasksUntilQuit(int) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Core/Private/Async/TaskGraph.cpp:667]
+0x0000749e358b2b8a libUnrealEditor-RenderCore.so!RenderingThreadMain(FEvent*) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/RenderCore/Private/RenderingThread.cpp:317]
+0x0000749e358e8264 libUnrealEditor-RenderCore.so!FRenderingThread::Run() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/RenderCore/Private/RenderingThread.cpp:468]
+0x0000749e3cf85a26 libUnrealEditor-Core.so!FRunnableThreadPThread::Run() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Core/Private/HAL/PThreadRunnableThread.cpp:25]
+0x0000749e3cedc2ea libUnrealEditor-Core.so!FRunnableThreadPThread::_ThreadProc(void*) [/mnt/horde/++UE5/Sync/Engine/Source/Runtime/Core/Private/HAL/PThreadRunnableThread.h:187]
+0x0000749e304a1e2e libc.so.6!UnknownFunction(0xa1e2d)
+0x0000749e30533a4c libc.so.6!UnknownFunction(0x133a4b)
+
+[2024.11.16-10.37.16:778][135]LogExit: Executing StaticShutdownAfterError

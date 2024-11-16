@@ -1,6 +1,9 @@
 Binaries
 DerivedDataCache
 Intermediate
+Saved/Logs
+Saved/Crashes
+Saved/Config
 .vscode
 .vs
 *.VC.db
