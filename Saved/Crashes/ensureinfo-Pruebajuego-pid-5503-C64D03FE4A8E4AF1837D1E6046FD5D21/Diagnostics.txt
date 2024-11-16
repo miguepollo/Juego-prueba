@@ -1,0 +1,31 @@
+Generating report for minidump
+
+Application version 5.4.4.0
+ ... built from changelist 35576357
+
+OS version Linux 6.11.0-9-generic (network name: HP-VICTUS-de-MIGUE)
+Running 8 x86_64 processors (16 logical cores)
+Exception was "Ensure condition failed: MouseCaptorPath.Widgets.Num() > 0  [File:./Runtime/Slate/Private/Framework/Application/SlateApplication.cpp] [Line: 5274] "
+
+<SOURCE START>
+<SOURCE END>
+
+<CALLSTACK START>
+libUnrealEditor-Slate.so!FSlateApplication::RoutePointerUpEvent(FWidgetPath const&, FPointerEvent const&)::$_0::operator()() const [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Slate/Private/Framework/Application/SlateApplication.cpp:5274]
+libUnrealEditor-Slate.so!FSlateApplication::RoutePointerUpEvent(FWidgetPath const&, FPointerEvent const&) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Slate/Private/Framework/Application/SlateApplication.cpp:5274]
+libUnrealEditor-Slate.so!FSlateApplication::ProcessMouseButtonUpEvent(FPointerEvent const&) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Slate/Private/Framework/Application/SlateApplication.cpp:5857]
+libUnrealEditor-Slate.so!FSlateApplication::OnMouseUp(EMouseButtons::Type, UE::Math::TVector2<double>) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Slate/Private/Framework/Application/SlateApplication.cpp:5813]
+libUnrealEditor-ApplicationCore.so!FLinuxApplication::ProcessDeferredMessage(SDL_Event) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/ApplicationCore/Private/Linux/LinuxApplication.cpp:427]
+libUnrealEditor-ApplicationCore.so!FLinuxPlatformApplicationMisc::PumpMessages(bool) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/ApplicationCore/Private/Linux/LinuxPlatformApplicationMisc.cpp:442]
+UnrealEditor!FEngineLoop::Tick() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Launch/Private/LaunchEngineLoop.cpp:5844]
+UnrealEditor!GuardedMain(char16_t const*) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Launch/Private/Launch.cpp:182]
+libUnrealEditor-UnixCommonStartup.so!CommonUnixMain(int, char**, int (*)(char16_t const*), void (*)()) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Unix/UnixCommonStartup/Private/UnixCommonStartup.cpp:269]
+libc.so.6!UnknownFunction(0x2a3b7)
+libc.so.6!__libc_start_main(+0x8a)
+UnrealEditor!_start()
+
+<CALLSTACK END>
+
+0 loaded modules
+
+Report end!

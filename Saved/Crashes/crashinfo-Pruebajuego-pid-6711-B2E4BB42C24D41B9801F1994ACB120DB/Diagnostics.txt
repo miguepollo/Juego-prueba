@@ -1,0 +1,44 @@
+Generating report for minidump
+
+Application version 5.4.4.0
+ ... built from changelist 35576357
+
+OS version Linux 6.11.0-9-generic (network name: HP-VICTUS-de-MIGUE)
+Running 8 x86_64 processors (16 logical cores)
+Exception was "SIGSEGV: invalid attempt to read memory at address 0x0000000000000058"
+
+<SOURCE START>
+<SOURCE END>
+
+<CALLSTACK START>
+libUnrealEditor-UnrealEd.so!UActorEditorContextSubsystem::UnregisterClient(IActorEditorContextClient*) [/mnt/horde/++UE5/Sync/Engine/Source/./Editor/UnrealEd/Private/Subsystems/ActorEditorContextSubsystem.cpp:44]
+libUnrealEditor-UnrealEd.so!FActorFolders::~FActorFolders() [/mnt/horde/++UE5/Sync/Engine/Source/./Editor/UnrealEd/Private/EditorActorFolders.cpp:76]
+libUnrealEditor-UnrealEd.so!TLazySingleton<FActorFolders>::~TLazySingleton() [/mnt/horde/++UE5/Sync/Engine/Source/Runtime/Core/Public/Misc/LazySingleton.h:98]
+libc.so.6!UnknownFunction(0x47bf0)
+libc.so.6!exit(+0x1d)
+libX11.so.6!_XDefaultIOError(+0x66)
+libX11.so.6!_XIOError(+0x6b)
+libX11.so.6!_XEventsQueued(+0x8c)
+libX11.so.6!XFlush(+0x25)
+libUnrealEditor-ApplicationCore.so!X11_DestroyWindow [/SDL-gui-backend/src/video/x11/SDL_x11window.c:1764]
+libUnrealEditor-ApplicationCore.so!SDL_DestroyWindow_REAL [/SDL-gui-backend/src/video/SDL_video.c:3288]
+libUnrealEditor-ApplicationCore.so!FLinuxWindow::Destroy() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/ApplicationCore/Private/Linux/LinuxWindow.cpp:457]
+libUnrealEditor-Slate.so!FSlateApplication::PrivateDestroyWindow(TSharedRef<SWindow, (ESPMode)1> const&) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Slate/Private/Framework/Application/SlateApplication.cpp:6966]
+libUnrealEditor-Slate.so!FSlateApplication::DestroyWindowsImmediately() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Slate/Private/Framework/Application/SlateApplication.cpp:3116]
+libUnrealEditor-Slate.so!FSlateApplication::RequestDestroyWindow(TSharedRef<SWindow, (ESPMode)1>) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Slate/Private/Framework/Application/SlateApplication.cpp:2325]
+libUnrealEditor-SlateCore.so!SWindow::RequestDestroyWindow() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/SlateCore/Private/Widgets/SWindow.cpp:1369]
+libUnrealEditor-Slate.so!FSlateUser::ResetTooltipWindow() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Slate/Private/Framework/Application/SlateUser.cpp:1430]
+libUnrealEditor-Slate.so!FSlateApplication::CloseAllWindowsImmediately() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Slate/Private/Framework/Application/SlateApplication.cpp:3061]
+libUnrealEditor-Slate.so!FSlateApplication::Shutdown(bool) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Slate/Private/Framework/Application/SlateApplication.cpp:772]
+UnrealEditor!FEngineLoop::Exit() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Launch/Private/LaunchEngineLoop.cpp:5129]
+UnrealEditor!GuardedMain(char16_t const*) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Launch/Private/Launch.cpp:195]
+libUnrealEditor-UnixCommonStartup.so!CommonUnixMain(int, char**, int (*)(char16_t const*), void (*)()) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Unix/UnixCommonStartup/Private/UnixCommonStartup.cpp:269]
+libc.so.6!UnknownFunction(0x2a3b7)
+libc.so.6!__libc_start_main(+0x8a)
+UnrealEditor!_start()
+
+<CALLSTACK END>
+
+0 loaded modules
+
+Report end!
