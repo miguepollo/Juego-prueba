@@ -2586,3 +2586,384 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.16-11.07.04:671][437]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
 [2024.11.16-11.07.04:719][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
 [2024.11.16-11.07.04:792][438]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.11.16-11.08.24:632][207]LogChaosDD: Creating Chaos Debug Draw Scene for world World_4
+[2024.11.16-11.08.24:637][207]LogChaosDD: Creating Chaos Debug Draw Scene for world World_5
+[2024.11.16-11.08.26:581][312]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/JuegoPrueba/character/ANIMATIONS/BS_muñequito_WalkRun.BS_muñequito_WalkRun
+[2024.11.16-11.08.26:601][312]LogChaosDD: Creating Chaos Debug Draw Scene for world World_6
+[2024.11.16-11.08.26:602][312]LogStreaming: Display: FlushAsyncLoading(618): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.16-11.08.26:630][312]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.11.16-11.08.26:923][312]LogChaosDD: Creating Chaos Debug Draw Scene for world World_7
+[2024.11.16-11.08.27:972][312]LogSlate: Took 0.000314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.11.16-11.08.28:504][313]LogTrace: Warning: Trace file '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Editor_Hitch_Rate_7.utrace' already exists
+[2024.11.16-11.08.28:975][331]LogChaosDD: Creating Chaos Debug Draw Scene for world World_8
+[2024.11.16-11.08.57:724][897]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.16-11.08.57:883][897]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/JuegoPrueba/character/ANIMATIONS/BS_muñequito_WalkRun] ([1] browsable assets)...
+[2024.11.16-11.08.57:904][897]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/JuegoPrueba/character/ANIMATIONS/BS_muñequito_WalkRun.BS_muñequito_WalkRun]
+[2024.11.16-11.08.57:904][897]OBJ SavePackage: Finished generating thumbnails for package [/Game/JuegoPrueba/character/ANIMATIONS/BS_muñequito_WalkRun]
+[2024.11.16-11.08.57:905][897]LogSavePackage: Moving output files for package: /Game/JuegoPrueba/character/ANIMATIONS/BS_muñequito_WalkRun
+[2024.11.16-11.08.57:905][897]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Saved/BS_muñequito_WalkRun4ABF1E30374F4887A8CFF55C6DDDC8DE.tmp' to '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Content/JuegoPrueba/character/ANIMATIONS/BS_muñequito_WalkRun.uasset'
+[2024.11.16-11.08.57:949][897]LogFileHelpers: InternalPromptForCheckoutAndSave took 224.722 ms (total: 341.323 ms)
+[2024.11.16-11.08.58:000][897]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.16-11.08.58:000][897]LogContentValidation: Enabled validators:
+[2024.11.16-11.08.58:000][897]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.16-11.08.58:000][897]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.16-11.08.58:000][897]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.16-11.08.58:000][897]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.16-11.08.58:000][897]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.16-11.08.58:000][897]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.16-11.08.58:000][897]AssetCheck: /Game/JuegoPrueba/character/ANIMATIONS/BS_muñequito_WalkRun Validando recurso
+[2024.11.16-11.08.58:938][928]LogTrace: Warning: Trace file '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Editor_Hitch_Rate_8.utrace' already exists
+[2024.11.16-11.09.09:059][474]LogSlate: Window 'BS_muñequito_WalkRun' being destroyed
+[2024.11.16-11.09.13:541][735]LogStreaming: Display: FlushAsyncLoading(623): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.16-11.09.13:730][735]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim (Required Memory Estimate: 2.80 MB)
+[2024.11.16-11.09.13:734][735]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim (Required Memory Estimate: 2.80 MB)
+[2024.11.16-11.09.13:741][735]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim (Required Memory Estimate: 2.35 MB)
+[2024.11.16-11.09.13:741][735]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim, at AnimationSequence/1fb58284e95dc98903d95980509ebeafe8b05488
+[2024.11.16-11.09.13:746][735]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim, at AnimationSequence/8d77eedbc5bc865a73c963ae0494c57c91acaf0d
+[2024.11.16-11.09.13:746][735]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim (Required Memory Estimate: 2.35 MB)
+[2024.11.16-11.09.13:749][735]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim, at AnimationSequence/eb1f3645132c19c6f45501b2ca3c9f8f718c081d
+[2024.11.16-11.09.13:753][735]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim (Required Memory Estimate: 1.45 MB)
+[2024.11.16-11.09.13:755][735]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim, at AnimationSequence/4dcd365de0f93bc0c094c751bef04a34b3d44e1a
+[2024.11.16-11.09.13:760][735]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim (Required Memory Estimate: 1.45 MB)
+[2024.11.16-11.09.13:760][735]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim, at AnimationSequence/49dcf63837ae8f0e33a27bcef11a767527a39b20
+[2024.11.16-11.09.13:764][735]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim (Required Memory Estimate: 1.90 MB)
+[2024.11.16-11.09.13:765][735]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim, at AnimationSequence/3c589734e79e4e99d4a5eef6cbd5f5a4c4796868
+[2024.11.16-11.09.13:769][735]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim (Required Memory Estimate: 1.90 MB)
+[2024.11.16-11.09.13:772][735]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim, at AnimationSequence/1319c50ce557b5dfded879a23133bdb4ae578fcc
+[2024.11.16-11.09.13:775][735]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim (Required Memory Estimate: 4.61 MB)
+[2024.11.16-11.09.13:776][735]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim, at AnimationSequence/e0a14c4fcca154095db338afcd243aca2f0daa7a
+[2024.11.16-11.09.13:780][735]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim (Required Memory Estimate: 4.61 MB)
+[2024.11.16-11.09.13:787][735]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim (Required Memory Estimate: 6.41 MB)
+[2024.11.16-11.09.13:790][735]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim, at AnimationSequence/361b1c12382886286f2c15e84e0d602725841af9
+[2024.11.16-11.09.13:795][735]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim (Required Memory Estimate: 6.41 MB)
+[2024.11.16-11.09.13:795][735]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim, at AnimationSequence/cc2b1e6f452301a13abebf6c4a7eae6d43660a29
+[2024.11.16-11.09.13:802][735]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim (Required Memory Estimate: 5.51 MB)
+[2024.11.16-11.09.13:808][735]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim, at AnimationSequence/0111d097422079b6a0998ed49447b61877c6c8e2
+[2024.11.16-11.09.13:810][735]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim (Required Memory Estimate: 5.51 MB)
+[2024.11.16-11.09.13:811][735]LogSkeletalMesh: Building Skeletal Mesh SKM_Quinn...
+[2024.11.16-11.09.13:817][735]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim, at AnimationSequence/7fc68fd196454c3471deb75402ae225556c50db9
+[2024.11.16-11.09.13:820][735]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim, at AnimationSequence/c6aa84b1fb6b08c5ec00f3eadebc3fcfc16e3c35
+[2024.11.16-11.09.13:827][735]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim, at AnimationSequence/96f0ad002e8a0d6ae8ef4c7c223051d2ee49d14d
+[2024.11.16-11.09.13:884][735]LogSkeletalMesh: Display: Esperando que recursos con piel esté listo0 /1 (SKM_Quinn)...
+[2024.11.16-11.09.16:490][735]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2024.11.16-11.09.16:491][735]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2024.11.16-11.09.18:863][735]LogSkeletalMesh: Skeletal mesh [/Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn]: The derived data key is different after the build. Save the asset to avoid rebuilding it everytime the editor load it.
+[2024.11.16-11.09.18:882][735]LogSkeletalMesh: Built Skeletal Mesh [5.07s] /Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn
+[2024.11.16-11.09.34:095][625]LogChaosDD: Creating Chaos Debug Draw Scene for world World_9
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display: ================================================
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display: Total job queries 194, among them cache hits 11 (5.67%), DDC hits 170 (87.63%), Duplicates 5 (2.58%)
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display: Tracking 178 distinct input hashes that result in 155 distinct outputs (87.08%)
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display: RAM used: 102,75 KiB of 1,55 GiB budget. Usage: 0.01%
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display: Shaders Compiled: 8
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display: Jobs assigned 8, completed 8 (100%)
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.08 s
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display: Job execution time: average 0.71 s, max 0.81 s
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display: Job life time (pending + execution): average 0.79 s, max 0.89
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display: Shader code size: average 8,487 KiB, min 3,108 KiB, max 13,062 KiB
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.90 s
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display: Average processing rate: 8.94 jobs/sec
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display: Total thread time: 3,374 s
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display: Total thread preprocess time: 2,757 s
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display: Percentage time preprocessing: 81.73%
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display: Effective parallelization: 3.77 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.53 sec, max 0.53 sec, min 0.52 sec)
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    2 times, average 0.42 sec, max 0.45 sec, min 0.39 sec)
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.40 sec, max 0.41 sec, min 0.40 sec)
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 31.23% of total time (compiled    2 times, average 0.53 sec, max 0.53 sec, min 0.52 sec)
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display:                                                 FLumenCardPS - 24.70% of total time (compiled    2 times, average 0.42 sec, max 0.45 sec, min 0.39 sec)
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 23.97% of total time (compiled    2 times, average 0.40 sec, max 0.41 sec, min 0.40 sec)
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display:                                                 FLumenCardVS - 20.09% of total time (compiled    2 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display:                                                  FHitProxyVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display: === Material stats ===
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display: Materials Translated:    134
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display: Material Total Translate Time: 0.05 s
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display: Material Translation Only: 0.03 s (56%)
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (3%)
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display: Material Cache Hits: 33 (25%)
+[2024.11.16-11.10.27:985][818]LogShaderCompilers: Display: ================================================
+[2024.11.16-11.10.53:117][298]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.16-11.10.53:200][298]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/JuegoPrueba/character/ANIMATIONS/BS_muñequito_WalkRun] ([1] browsable assets)...
+[2024.11.16-11.10.53:222][298]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/JuegoPrueba/character/ANIMATIONS/BS_muñequito_WalkRun.BS_muñequito_WalkRun]
+[2024.11.16-11.10.53:222][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/JuegoPrueba/character/ANIMATIONS/BS_muñequito_WalkRun]
+[2024.11.16-11.10.53:223][298]LogSavePackage: Moving output files for package: /Game/JuegoPrueba/character/ANIMATIONS/BS_muñequito_WalkRun
+[2024.11.16-11.10.53:223][298]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Saved/BS_muñequito_WalkRun161A3132353047019CD2595EBD87C67C.tmp' to '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Content/JuegoPrueba/character/ANIMATIONS/BS_muñequito_WalkRun.uasset'
+[2024.11.16-11.10.53:266][298]LogFileHelpers: InternalPromptForCheckoutAndSave took 149.176 ms (total: 490.500 ms)
+[2024.11.16-11.10.53:307][298]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.16-11.10.53:307][298]LogContentValidation: Enabled validators:
+[2024.11.16-11.10.53:307][298]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.16-11.10.53:307][298]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.16-11.10.53:307][298]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.16-11.10.53:307][298]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.16-11.10.53:307][298]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.16-11.10.53:307][298]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.16-11.10.53:307][298]AssetCheck: /Game/JuegoPrueba/character/ANIMATIONS/BS_muñequito_WalkRun Validando recurso
+[2024.11.16-11.10.54:935][388]LogTrace: Warning: Trace file '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Editor_Hitch_Rate_9.utrace' already exists
+[2024.11.16-11.10.57:138][506]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2024.11.16-11.10.57:141][506]LogContentBundle: [PlaygroundMap(Autónomo)] Generating Streaming for 0 Content Bundles.
+[2024.11.16-11.10.57:141][506]LogWorldPartition: Display: GenerateStreaming for 'PlaygroundMap' started...
+[2024.11.16-11.10.57:142][506]LogWorldPartition: Display: GenerateStreaming for 'PlaygroundMap' took 688 us (total: 5.681 ms)
+[2024.11.16-11.10.57:142][506]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.16-11.10.57:142][506]LogPlayLevel: Creating play world package: /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap
+[2024.11.16-11.10.57:143][506]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001270s)
+[2024.11.16-11.10.57:143][506]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoPrueba/mapas/PlaygroundMap.PlaygroundMap to /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap (0.001295s)
+[2024.11.16-11.10.57:184][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.11.16-11.10.57:189][506]LogChaosDD: Creating Chaos Debug Draw Scene for world PlaygroundMap
+[2024.11.16-11.10.57:191][506]LogWorldPartition: ULevel::OnLevelLoaded(PlaygroundMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.16-11.10.57:191][506]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.16-11.10.57:191][506]LogWorldPartition: UWorldPartition::Initialize : World = /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.16-11.10.57:191][506]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.16-11.10.57:191][506]LogWorldPartition: Display: WorldPartition initialize took 613 us (total: 46.871 ms)
+[2024.11.16-11.10.57:191][506]LogPlayLevel: PIE: World Init took: (0.001948s)
+[2024.11.16-11.10.57:191][506]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.11.16-11.10.57:191][506]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.16-11.10.57:191][506]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.16-11.10.57:191][506]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.16-11.10.57:191][506]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.16-11.10.57:191][506]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.16-11.10.57:191][506]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.16-11.10.57:191][506]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.16-11.10.57:191][506]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.16-11.10.57:191][506]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.16-11.10.57:191][506]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.16-11.10.57:191][506]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.16-11.10.57:191][506]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2024.11.16-11.10.57:192][506]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL2'
+[2024.11.16-11.10.57:303][506]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2024.11.16-11.10.57:314][506]LogAudioMixer: Display: Using Audio Hardware Device Family 17h/19h HD Audio Controller Speaker
+[2024.11.16-11.10.57:315][506]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.16-11.10.57:315][506]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.16-11.10.57:315][506]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.16-11.10.57:315][506]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=7
+[2024.11.16-11.10.57:315][506]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.11.16-11.10.57:315][506]LogInit: FAudioDevice initialized with ID 7.
+[2024.11.16-11.10.57:315][506]LogAudio: Display: Audio Device (ID: 7) registered with world 'PlaygroundMap'.
+[2024.11.16-11.10.57:315][506]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.11.16-11.10.57:317][506]LogLoad: Game class is 'BP_GamemodeMain_C'
+[2024.11.16-11.10.57:318][506]LogWorld: Bringing World /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap up for play (max tick rate 0) at 2024.11.16-12.10.57
+[2024.11.16-11.10.57:318][506]LogWorld: Bringing up level for play took: 0.000620
+[2024.11.16-11.10.57:318][506]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.11.16-11.10.57:321][506]PIE: El servidor ha iniciado sesión
+[2024.11.16-11.10.57:322][506]PIE: Tiempo de inicio total de la reproducción en el editor de 0,181 segundos.
+[2024.11.16-11.10.57:371][508]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-11.11.05:427][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.16-11.11.05:427][987]LogWorld: BeginTearingDown for /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap
+[2024.11.16-11.11.05:427][987]LogWorld: UWorld::CleanupWorld for PlaygroundMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.16-11.11.05:427][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-11.11.05:427][987]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap
+[2024.11.16-11.11.05:432][987]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.16-11.11.05:436][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-11.11.05:452][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.16-11.11.05:452][987]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.11.16-11.11.05:498][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.11.16-11.11.05:524][988]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.11.16-11.11.05:527][988]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=30560.00Kb MemTypeIndex=1
+[2024.11.16-11.11.19:311][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.11.16-11.11.19:328][778]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.16-11.11.19:372][778]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/JuegoPrueba/character/BP_muñequito] ([2] browsable assets)...
+[2024.11.16-11.11.19:393][778]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/JuegoPrueba/character/BP_muñequito.BP_muñequito]
+[2024.11.16-11.11.19:393][778]OBJ SavePackage: Finished generating thumbnails for package [/Game/JuegoPrueba/character/BP_muñequito]
+[2024.11.16-11.11.19:393][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoPrueba/character/BP_muñequito" FILE="../../../../Documents/Unreal Projects/Juego-prueba 5.5/Content/JuegoPrueba/character/BP_muñequito.uasset" SILENT=true
+[2024.11.16-11.11.19:399][778]LogSavePackage: Moving output files for package: /Game/JuegoPrueba/character/BP_muñequito
+[2024.11.16-11.11.19:399][778]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Saved/BP_muñequito7751C7C4708A4A9E9FAA90463C631B19.tmp' to '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Content/JuegoPrueba/character/BP_muñequito.uasset'
+[2024.11.16-11.11.19:439][778]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.549 ms (total: 602.050 ms)
+[2024.11.16-11.11.19:517][778]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.16-11.11.19:517][778]LogContentValidation: Enabled validators:
+[2024.11.16-11.11.19:517][778]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.16-11.11.19:517][778]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.16-11.11.19:517][778]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.16-11.11.19:517][778]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.16-11.11.19:517][778]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.16-11.11.19:517][778]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.16-11.11.19:517][778]AssetCheck: /Game/JuegoPrueba/character/BP_muñequito Validando recurso
+[2024.11.16-11.11.20:947][851]LogTrace: Warning: Trace file '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Editor_Hitch_Rate_0.utrace' already exists
+[2024.11.16-11.11.21:400][878]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2024.11.16-11.11.21:404][878]LogContentBundle: [PlaygroundMap(Autónomo)] Generating Streaming for 0 Content Bundles.
+[2024.11.16-11.11.21:404][878]LogWorldPartition: Display: GenerateStreaming for 'PlaygroundMap' started...
+[2024.11.16-11.11.21:404][878]LogWorldPartition: Display: GenerateStreaming for 'PlaygroundMap' took 665 us (total: 6.347 ms)
+[2024.11.16-11.11.21:404][878]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.16-11.11.21:426][878]LogPlayLevel: Creating play world package: /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap
+[2024.11.16-11.11.21:428][878]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001490s)
+[2024.11.16-11.11.21:428][878]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoPrueba/mapas/PlaygroundMap.PlaygroundMap to /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap (0.001523s)
+[2024.11.16-11.11.21:442][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.11.16-11.11.21:447][878]LogChaosDD: Creating Chaos Debug Draw Scene for world PlaygroundMap
+[2024.11.16-11.11.21:448][878]LogWorldPartition: ULevel::OnLevelLoaded(PlaygroundMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.16-11.11.21:448][878]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.16-11.11.21:448][878]LogWorldPartition: UWorldPartition::Initialize : World = /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.16-11.11.21:448][878]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.16-11.11.21:449][878]LogWorldPartition: Display: WorldPartition initialize took 591 us (total: 47.462 ms)
+[2024.11.16-11.11.21:449][878]LogPlayLevel: PIE: World Init took: (0.001874s)
+[2024.11.16-11.11.21:449][878]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.11.16-11.11.21:449][878]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.16-11.11.21:449][878]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.16-11.11.21:449][878]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.16-11.11.21:449][878]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.16-11.11.21:449][878]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.16-11.11.21:449][878]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.16-11.11.21:449][878]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.16-11.11.21:449][878]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.16-11.11.21:449][878]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.16-11.11.21:449][878]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.16-11.11.21:449][878]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.16-11.11.21:449][878]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2024.11.16-11.11.21:449][878]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL2'
+[2024.11.16-11.11.21:565][878]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2024.11.16-11.11.21:576][878]LogAudioMixer: Display: Using Audio Hardware Device Family 17h/19h HD Audio Controller Speaker
+[2024.11.16-11.11.21:576][878]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.16-11.11.21:576][878]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.16-11.11.21:576][878]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.16-11.11.21:576][878]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=8
+[2024.11.16-11.11.21:576][878]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.11.16-11.11.21:576][878]LogInit: FAudioDevice initialized with ID 8.
+[2024.11.16-11.11.21:576][878]LogAudio: Display: Audio Device (ID: 8) registered with world 'PlaygroundMap'.
+[2024.11.16-11.11.21:576][878]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.11.16-11.11.21:578][878]LogLoad: Game class is 'BP_GamemodeMain_C'
+[2024.11.16-11.11.21:579][878]LogWorld: Bringing World /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap up for play (max tick rate 0) at 2024.11.16-12.11.21
+[2024.11.16-11.11.21:579][878]LogWorld: Bringing up level for play took: 0.000612
+[2024.11.16-11.11.21:579][878]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.11.16-11.11.21:582][878]PIE: El servidor ha iniciado sesión
+[2024.11.16-11.11.21:583][878]PIE: Tiempo de inicio total de la reproducción en el editor de 0,179 segundos.
+[2024.11.16-11.11.21:633][880]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-11.11.28:558][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.16-11.11.28:558][288]LogWorld: BeginTearingDown for /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap
+[2024.11.16-11.11.28:558][288]LogWorld: UWorld::CleanupWorld for PlaygroundMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.16-11.11.28:558][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-11.11.28:558][288]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap
+[2024.11.16-11.11.28:566][288]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.16-11.11.28:570][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-11.11.28:584][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.16-11.11.28:584][288]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.11.16-11.11.28:633][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.11.16-11.11.28:659][289]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.11.16-11.11.28:666][290]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=30560.00Kb MemTypeIndex=1
+[2024.11.16-11.13.03:657][940]LogSlate: Took 0.007676 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.11.16-11.13.22:239][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.11.16-11.13.22:260][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.16-11.13.22:302][ 27]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/JuegoPrueba/character/BP_muñequito] ([2] browsable assets)...
+[2024.11.16-11.13.22:323][ 27]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/JuegoPrueba/character/BP_muñequito.BP_muñequito]
+[2024.11.16-11.13.22:323][ 27]OBJ SavePackage: Finished generating thumbnails for package [/Game/JuegoPrueba/character/BP_muñequito]
+[2024.11.16-11.13.22:323][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoPrueba/character/BP_muñequito" FILE="../../../../Documents/Unreal Projects/Juego-prueba 5.5/Content/JuegoPrueba/character/BP_muñequito.uasset" SILENT=true
+[2024.11.16-11.13.22:330][ 27]LogSavePackage: Moving output files for package: /Game/JuegoPrueba/character/BP_muñequito
+[2024.11.16-11.13.22:330][ 27]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Saved/BP_muñequito02FEC7311133429AAC6FC6F1642953B9.tmp' to '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Content/JuegoPrueba/character/BP_muñequito.uasset'
+[2024.11.16-11.13.22:365][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.949 ms (total: 706.999 ms)
+[2024.11.16-11.13.22:417][ 27]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.16-11.13.22:417][ 27]LogContentValidation: Enabled validators:
+[2024.11.16-11.13.22:417][ 27]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.16-11.13.22:417][ 27]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.16-11.13.22:417][ 27]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.16-11.13.22:417][ 27]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.16-11.13.22:417][ 27]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.16-11.13.22:417][ 27]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.16-11.13.22:417][ 27]AssetCheck: /Game/JuegoPrueba/character/BP_muñequito Validando recurso
+[2024.11.16-11.13.22:935][ 50]LogTrace: Warning: Trace file '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Editor_Hitch_Rate_1.utrace' already exists
+[2024.11.16-11.14.24:847][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.11.16-11.14.24:876][682]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.16-11.14.24:919][682]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/JuegoPrueba/character/BP_muñequito] ([2] browsable assets)...
+[2024.11.16-11.14.24:942][682]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/JuegoPrueba/character/BP_muñequito.BP_muñequito]
+[2024.11.16-11.14.24:942][682]OBJ SavePackage: Finished generating thumbnails for package [/Game/JuegoPrueba/character/BP_muñequito]
+[2024.11.16-11.14.24:942][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoPrueba/character/BP_muñequito" FILE="../../../../Documents/Unreal Projects/Juego-prueba 5.5/Content/JuegoPrueba/character/BP_muñequito.uasset" SILENT=true
+[2024.11.16-11.14.24:949][682]LogSavePackage: Moving output files for package: /Game/JuegoPrueba/character/BP_muñequito
+[2024.11.16-11.14.24:949][682]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Saved/BP_muñequitoE7421815A29345AEAF5BC074065EA816.tmp' to '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Content/JuegoPrueba/character/BP_muñequito.uasset'
+[2024.11.16-11.14.24:983][682]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.761 ms (total: 813.761 ms)
+[2024.11.16-11.14.25:051][682]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.16-11.14.25:051][682]LogContentValidation: Enabled validators:
+[2024.11.16-11.14.25:051][682]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.16-11.14.25:051][682]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.16-11.14.25:051][682]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.16-11.14.25:051][682]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.16-11.14.25:051][682]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.16-11.14.25:051][682]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.16-11.14.25:051][682]AssetCheck: /Game/JuegoPrueba/character/BP_muñequito Validando recurso
+[2024.11.16-11.14.25:179][683]LogTrace: Warning: Trace file '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Editor_Hitch_Rate_2.utrace' already exists
+[2024.11.16-11.15.02:700][893]LogSlate: Window 'Selector de color' being destroyed
+[2024.11.16-11.15.03:671][946]LogSlate: Window 'Selector de color' being destroyed
+[2024.11.16-11.15.04:375][985]LogSlate: Window 'Selector de color' being destroyed
+[2024.11.16-11.15.05:376][ 42]LogSlate: Window 'Selector de color' being destroyed
+[2024.11.16-11.15.06:138][ 85]LogSlate: Window 'Selector de color' being destroyed
+[2024.11.16-11.15.08:035][191]LogSlate: Window 'Selector de color' being destroyed
+[2024.11.16-11.15.08:748][230]LogSlate: Window 'Selector de color' being destroyed
+[2024.11.16-11.15.10:321][321]LogSlate: Window 'Selector de color' being destroyed
+[2024.11.16-11.15.50:255][642]LogSlate: Window 'Selector de color' being destroyed
+[2024.11.16-11.15.52:676][774]LogSlate: Window 'Selector de color' being destroyed
+[2024.11.16-11.15.53:699][832]LogSlate: Window 'Selector de color' being destroyed
+[2024.11.16-11.16.14:141][992]LogSlate: Window 'Selector de color' being destroyed
+[2024.11.16-11.18.44:431][633]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18446733031768414689
+[2024.11.16-11.18.44:431][633]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2024.11.16-11.18.44:447][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-11.18.50:504][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.11.16-11.18.50:509][966]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/JuegoPrueba/mapas/PlaygroundMap' took 0.026
+[2024.11.16-11.18.50:509][966]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/JuegoPrueba/character/BP_muñequito] ([2] browsable assets)...
+[2024.11.16-11.18.50:518][966]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/JuegoPrueba/character/BP_muñequito.BP_muñequito]
+[2024.11.16-11.18.50:518][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/JuegoPrueba/character/BP_muñequito]
+[2024.11.16-11.18.50:526][966]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/JuegoPrueba/character/BP_muñequito_Auto1
+[2024.11.16-11.18.50:526][966]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Saved/BP_muñequito_Auto1A3237B06DADC40198311DBB253BB4191.tmp' to '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Saved/Autosaves/Game/JuegoPrueba/character/BP_muñequito_Auto1.uasset'
+[2024.11.16-11.18.50:527][966]LogFileHelpers: Auto-saving content packages took 0.018
+[2024.11.16-11.25.34:950][214]LogTrace: Writing trace snapshot to '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Hardware_Available_Memory_1.utrace'...
+[2024.11.16-11.25.34:970][214]LogTrace: Display: Trace snapshot generated in 0.020 seconds to "/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Hardware_Available_Memory_1.utrace".
+[2024.11.16-11.38.28:567][619]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data. AppVersion = 5.5.0-37670630+++UE5+Release-5.5
+[2024.11.16-11.38.28:711][619]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2024.11.16-11.38.28:712][619]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2024.11.16-11.38.28:712][619]LogAnalyticsSessionSummarySender: Sent summary session report for: AppId=UEEditor.Rocket.Release SessionId={34A4D0F7-5D5E-40A0-A853-05948DC0C18C}
+[2024.11.16-11.58.28:633][604]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data. AppVersion = 5.5.0-37670630+++UE5+Release-5.5
+[2024.11.16-11.58.28:778][604]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2024.11.16-11.58.28:778][604]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2024.11.16-11.58.28:778][604]LogAnalyticsSessionSummarySender: Sent summary session report for: AppId=UEEditor.Rocket.Release SessionId={3F97BE59-8004-4E31-A81E-9C643597CA4B}
+[2024.11.16-12.00.18:491][190]LogDerivedDataCache: /home/migue/.config/Epic/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.16-12.13.33:239][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.11.16-12.13.33:244][675]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/JuegoPrueba/mapas/PlaygroundMap' took 0.020
+[2024.11.16-12.13.33:244][675]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/JuegoPrueba/character/BP_muñequito] ([2] browsable assets)...
+[2024.11.16-12.13.33:253][675]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/JuegoPrueba/character/BP_muñequito.BP_muñequito]
+[2024.11.16-12.13.33:253][675]OBJ SavePackage: Finished generating thumbnails for package [/Game/JuegoPrueba/character/BP_muñequito]
+[2024.11.16-12.13.33:262][675]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/JuegoPrueba/character/BP_muñequito_Auto2
+[2024.11.16-12.13.33:262][675]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Saved/BP_muñequito_Auto2B38A5913AEA749C1AACFE721B4BFED03.tmp' to '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Saved/Autosaves/Game/JuegoPrueba/character/BP_muñequito_Auto2.uasset'
+[2024.11.16-12.13.33:263][675]LogFileHelpers: Auto-saving content packages took 0.019
+[2024.11.16-12.14.51:791][841]LogSlate: Window 'Selector de color' being destroyed
+[2024.11.16-12.14.51:952][848]LogTrace: Warning: Trace file '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Editor_Hitch_Rate_3.utrace' already exists
+[2024.11.16-12.16.38:936][167]LogTrace: Writing trace snapshot to '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Hardware_Available_Memory_2.utrace'...
+[2024.11.16-12.16.38:959][167]LogTrace: Display: Trace snapshot generated in 0.024 seconds to "/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Hardware_Available_Memory_2.utrace".
+[2024.11.16-12.16.53:936][ 67]LogTrace: Writing trace snapshot to '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Hardware_Available_Memory_3.utrace'...
+[2024.11.16-12.16.53:959][ 67]LogTrace: Display: Trace snapshot generated in 0.024 seconds to "/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Hardware_Available_Memory_3.utrace".
+[2024.11.16-12.18.17:936][101]LogTrace: Writing trace snapshot to '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Hardware_Available_Memory_4.utrace'...
+[2024.11.16-12.18.17:958][101]LogTrace: Display: Trace snapshot generated in 0.022 seconds to "/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Hardware_Available_Memory_4.utrace".
+[2024.11.16-12.23.03:934][256]LogTrace: Writing trace snapshot to '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Hardware_Available_Memory_5.utrace'...
+[2024.11.16-12.23.03:956][256]LogTrace: Display: Trace snapshot generated in 0.022 seconds to "/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Hardware_Available_Memory_5.utrace".
+[2024.11.16-12.23.32:169][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.11.16-12.23.32:173][920]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/JuegoPrueba/mapas/PlaygroundMap' took 0.026
+[2024.11.16-12.23.32:174][920]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/JuegoPrueba/character/BP_muñequito] ([2] browsable assets)...
+[2024.11.16-12.23.32:181][920]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/JuegoPrueba/character/BP_muñequito.BP_muñequito]
+[2024.11.16-12.23.32:181][920]OBJ SavePackage: Finished generating thumbnails for package [/Game/JuegoPrueba/character/BP_muñequito]
+[2024.11.16-12.23.32:191][920]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/JuegoPrueba/character/BP_muñequito_Auto3
+[2024.11.16-12.23.32:191][920]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Saved/BP_muñequito_Auto3D90A749D7BBE4B9B8C7CB2696A942527.tmp' to '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Saved/Autosaves/Game/JuegoPrueba/character/BP_muñequito_Auto3.uasset'
+[2024.11.16-12.23.32:191][920]LogFileHelpers: Auto-saving content packages took 0.018
+[2024.11.16-12.25.13:933][ 24]LogTrace: Writing trace snapshot to '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Hardware_Available_Memory_6.utrace'...
+[2024.11.16-12.25.13:956][ 24]LogTrace: Display: Trace snapshot generated in 0.023 seconds to "/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Hardware_Available_Memory_6.utrace".
+[2024.11.16-12.33.01:948][ 99]LogTrace: Writing trace snapshot to '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Hardware_Available_Memory_7.utrace'...
+[2024.11.16-12.33.01:971][ 99]LogTrace: Display: Trace snapshot generated in 0.023 seconds to "/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Hardware_Available_Memory_7.utrace".
+[2024.11.16-12.34.21:236][769]LogSlate: Window 'Selector de color' being destroyed
+[2024.11.16-12.34.23:678][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.11.16-12.34.23:717][902]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.16-12.34.23:767][902]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/JuegoPrueba/character/BP_muñequito] ([2] browsable assets)...
+[2024.11.16-12.34.23:791][902]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/JuegoPrueba/character/BP_muñequito.BP_muñequito]
+[2024.11.16-12.34.23:791][902]OBJ SavePackage: Finished generating thumbnails for package [/Game/JuegoPrueba/character/BP_muñequito]
+[2024.11.16-12.34.23:791][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoPrueba/character/BP_muñequito" FILE="../../../../Documents/Unreal Projects/Juego-prueba 5.5/Content/JuegoPrueba/character/BP_muñequito.uasset" SILENT=true
+[2024.11.16-12.34.23:799][902]LogSavePackage: Moving output files for package: /Game/JuegoPrueba/character/BP_muñequito
+[2024.11.16-12.34.23:799][902]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Saved/BP_muñequitoDEACD449A5FA4741BFECF8B790F791D6.tmp' to '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Content/JuegoPrueba/character/BP_muñequito.uasset'
+[2024.11.16-12.34.23:831][902]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.903 ms (total: 927.664 ms)
+[2024.11.16-12.34.23:879][902]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.16-12.34.23:879][902]LogContentValidation: Enabled validators:
+[2024.11.16-12.34.23:879][902]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.16-12.34.23:879][902]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.16-12.34.23:879][902]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.16-12.34.23:879][902]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.16-12.34.23:879][902]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.16-12.34.23:879][902]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.16-12.34.23:879][902]AssetCheck: /Game/JuegoPrueba/character/BP_muñequito Validando recurso
+[2024.11.16-12.34.24:934][959]LogTrace: Warning: Trace file '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Editor_Hitch_Rate_4.utrace' already exists
