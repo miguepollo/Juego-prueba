@@ -2967,3 +2967,1036 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.16-12.34.23:879][902]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2024.11.16-12.34.23:879][902]AssetCheck: /Game/JuegoPrueba/character/BP_muñequito Validando recurso
 [2024.11.16-12.34.24:934][959]LogTrace: Warning: Trace file '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Editor_Hitch_Rate_4.utrace' already exists
+[2024.11.16-12.38.14:520][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.11.16-12.38.14:524][409]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/JuegoPrueba/mapas/PlaygroundMap' took 0.020
+[2024.11.16-12.38.14:524][409]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/JuegoPrueba/character/BP_muñequito] ([2] browsable assets)...
+[2024.11.16-12.38.14:533][409]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/JuegoPrueba/character/BP_muñequito.BP_muñequito]
+[2024.11.16-12.38.14:533][409]OBJ SavePackage: Finished generating thumbnails for package [/Game/JuegoPrueba/character/BP_muñequito]
+[2024.11.16-12.38.14:542][409]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/JuegoPrueba/character/BP_muñequito_Auto4
+[2024.11.16-12.38.14:542][409]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Saved/BP_muñequito_Auto4775A97F2889A4DA48666C81A7A1EDEC1.tmp' to '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Saved/Autosaves/Game/JuegoPrueba/character/BP_muñequito_Auto4.uasset'
+[2024.11.16-12.38.14:542][409]LogFileHelpers: Auto-saving content packages took 0.018
+[2024.11.16-12.38.59:568][958]LogSlate: Window 'Selector de color' being destroyed
+[2024.11.16-12.40.42:405][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.11.16-12.40.42:449][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.16-12.40.42:490][ 42]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/JuegoPrueba/character/BP_muñequito] ([2] browsable assets)...
+[2024.11.16-12.40.42:511][ 42]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/JuegoPrueba/character/BP_muñequito.BP_muñequito]
+[2024.11.16-12.40.42:511][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/JuegoPrueba/character/BP_muñequito]
+[2024.11.16-12.40.42:511][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoPrueba/character/BP_muñequito" FILE="../../../../Documents/Unreal Projects/Juego-prueba 5.5/Content/JuegoPrueba/character/BP_muñequito.uasset" SILENT=true
+[2024.11.16-12.40.42:521][ 42]LogSavePackage: Moving output files for package: /Game/JuegoPrueba/character/BP_muñequito
+[2024.11.16-12.40.42:521][ 42]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Saved/BP_muñequito68C974CF6181463280417EEE14279F63.tmp' to '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Content/JuegoPrueba/character/BP_muñequito.uasset'
+[2024.11.16-12.40.42:562][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.402 ms (total: 1.04 sec)
+[2024.11.16-12.40.42:603][ 42]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.16-12.40.42:603][ 42]LogContentValidation: Enabled validators:
+[2024.11.16-12.40.42:603][ 42]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.16-12.40.42:603][ 42]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.16-12.40.42:603][ 42]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.16-12.40.42:603][ 42]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.16-12.40.42:603][ 42]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.16-12.40.42:603][ 42]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.16-12.40.42:604][ 42]AssetCheck: /Game/JuegoPrueba/character/BP_muñequito Validando recurso
+[2024.11.16-12.40.42:938][ 57]LogTrace: Warning: Trace file '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Editor_Hitch_Rate_5.utrace' already exists
+[2024.11.16-12.40.47:913][329]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2024.11.16-12.40.47:917][329]LogContentBundle: [PlaygroundMap(Autónomo)] Generating Streaming for 0 Content Bundles.
+[2024.11.16-12.40.47:917][329]LogWorldPartition: Display: GenerateStreaming for 'PlaygroundMap' started...
+[2024.11.16-12.40.47:917][329]LogWorldPartition: Display: GenerateStreaming for 'PlaygroundMap' took 696 us (total: 7.043 ms)
+[2024.11.16-12.40.47:918][329]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.16-12.40.47:918][329]LogPlayLevel: Creating play world package: /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap
+[2024.11.16-12.40.47:919][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001447s)
+[2024.11.16-12.40.47:919][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoPrueba/mapas/PlaygroundMap.PlaygroundMap to /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap (0.001470s)
+[2024.11.16-12.40.47:938][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.11.16-12.40.47:943][329]LogChaosDD: Creating Chaos Debug Draw Scene for world PlaygroundMap
+[2024.11.16-12.40.47:944][329]LogWorldPartition: ULevel::OnLevelLoaded(PlaygroundMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.16-12.40.47:944][329]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.16-12.40.47:944][329]LogWorldPartition: UWorldPartition::Initialize : World = /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.16-12.40.47:944][329]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.16-12.40.47:945][329]LogWorldPartition: Display: WorldPartition initialize took 592 us (total: 48.055 ms)
+[2024.11.16-12.40.47:945][329]LogPlayLevel: PIE: World Init took: (0.001893s)
+[2024.11.16-12.40.47:945][329]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.11.16-12.40.47:945][329]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.16-12.40.47:945][329]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.16-12.40.47:945][329]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.16-12.40.47:945][329]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.16-12.40.47:945][329]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.16-12.40.47:945][329]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.16-12.40.47:945][329]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.16-12.40.47:945][329]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.16-12.40.47:945][329]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.16-12.40.47:945][329]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.16-12.40.47:945][329]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.16-12.40.47:945][329]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2024.11.16-12.40.47:945][329]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL2'
+[2024.11.16-12.40.48:059][329]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2024.11.16-12.40.48:072][329]LogAudioMixer: Display: Using Audio Hardware Device Family 17h/19h HD Audio Controller Speaker
+[2024.11.16-12.40.48:072][329]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.16-12.40.48:072][329]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.16-12.40.48:072][329]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.16-12.40.48:073][329]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=9
+[2024.11.16-12.40.48:073][329]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.11.16-12.40.48:073][329]LogInit: FAudioDevice initialized with ID 9.
+[2024.11.16-12.40.48:073][329]LogAudio: Display: Audio Device (ID: 9) registered with world 'PlaygroundMap'.
+[2024.11.16-12.40.48:073][329]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.11.16-12.40.48:075][329]LogLoad: Game class is 'BP_GamemodeMain_C'
+[2024.11.16-12.40.48:076][329]LogWorld: Bringing World /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap up for play (max tick rate 0) at 2024.11.16-13.40.48
+[2024.11.16-12.40.48:076][329]LogWorld: Bringing up level for play took: 0.000639
+[2024.11.16-12.40.48:076][329]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.11.16-12.40.48:079][329]PIE: El servidor ha iniciado sesión
+[2024.11.16-12.40.48:080][329]PIE: Tiempo de inicio total de la reproducción en el editor de 0,163 segundos.
+[2024.11.16-12.40.48:099][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=32768.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:108][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:121][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=73984.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:136][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=3840.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:138][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=30560.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:145][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=32768.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:151][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:152][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:165][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:166][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=16384.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:169][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:170][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=32768.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:177][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:178][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:190][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:191][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:192][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:204][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:205][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:218][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:221][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=16384.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:221][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2368.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:225][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2048.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:226][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:239][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2048.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:241][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2048.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:242][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2048.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:243][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2048.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:560][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=30560.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:578][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:578][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=15280.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:691][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:691][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=15280.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:695][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:728][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:729][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:729][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=7640.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:734][330]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=3840.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:802][331]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:803][331]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2024.11.16-12.40.48:977][338]LogTrace: Writing trace snapshot to '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/PIE_Hitch_Rate_2.utrace'...
+[2024.11.16-12.40.49:001][338]LogTrace: Display: Trace snapshot generated in 0.025 seconds to "/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/PIE_Hitch_Rate_2.utrace".
+[2024.11.16-12.40.53:543][448]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 2.0
+[2024.11.16-12.40.54:372][468]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 1.0
+[2024.11.16-12.40.54:877][480]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.40.55:165][487]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.40.55:469][494]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.40.55:719][500]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.40.55:967][506]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.40.56:047][508]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.40.56:210][512]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.40.56:406][517]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.40.56:536][520]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.40.56:733][525]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.40.56:862][528]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.40.56:943][530]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.40.57:024][532]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.40.57:138][535]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.40.57:219][537]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.40.57:431][542]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.40.57:629][547]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.40.57:760][550]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.40.59:571][594]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.40.59:688][597]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.40.59:771][599]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.40.59:903][602]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.40.59:986][604]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.41.00:102][607]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.41.00:184][609]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.41.00:315][612]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.41.00:431][615]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.41.00:513][617]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.41.00:644][620]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.41.00:761][623]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.41.00:845][625]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.41.00:927][627]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.41.01:009][629]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.41.01:139][632]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.41.01:221][634]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.41.01:338][637]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.41.22:337][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.16-12.41.22:337][142]LogWorld: BeginTearingDown for /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap
+[2024.11.16-12.41.22:337][142]LogWorld: UWorld::CleanupWorld for PlaygroundMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.16-12.41.22:338][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-12.41.22:338][142]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap
+[2024.11.16-12.41.22:385][142]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.16-12.41.22:390][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-12.41.22:409][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.16-12.41.22:410][142]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.11.16-12.41.22:455][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.11.16-12.41.22:464][142]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2024.11.16-12.41.22:483][143]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.11.16-12.41.22:485][143]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2024.11.16-12.41.22:485][143]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=6144.00Kb MemTypeIndex=1
+[2024.11.16-12.41.22:518][144]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=30560.00Kb MemTypeIndex=1
+[2024.11.16-12.41.22:525][145]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2024.11.16-12.41.22:525][145]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=30560.00Kb MemTypeIndex=1
+[2024.11.16-12.41.22:525][145]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2024.11.16-12.41.22:525][145]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=15280.00Kb MemTypeIndex=1
+[2024.11.16-12.41.22:525][145]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2024.11.16-12.41.22:525][145]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=15280.00Kb MemTypeIndex=1
+[2024.11.16-12.41.22:525][145]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2024.11.16-12.41.22:525][145]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=3840.00Kb MemTypeIndex=1
+[2024.11.16-12.41.22:546][146]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2024.11.16-12.41.22:546][146]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=3840.00Kb MemTypeIndex=1
+[2024.11.16-12.41.22:546][146]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2024.11.16-12.41.22:546][146]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=3840.00Kb MemTypeIndex=1
+[2024.11.16-12.41.26:176][276]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2024.11.16-12.41.26:180][276]LogContentBundle: [PlaygroundMap(Autónomo)] Generating Streaming for 0 Content Bundles.
+[2024.11.16-12.41.26:180][276]LogWorldPartition: Display: GenerateStreaming for 'PlaygroundMap' started...
+[2024.11.16-12.41.26:181][276]LogWorldPartition: Display: GenerateStreaming for 'PlaygroundMap' took 772 us (total: 7.815 ms)
+[2024.11.16-12.41.26:181][276]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.16-12.41.26:181][276]LogPlayLevel: Creating play world package: /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap
+[2024.11.16-12.41.26:182][276]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001352s)
+[2024.11.16-12.41.26:182][276]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoPrueba/mapas/PlaygroundMap.PlaygroundMap to /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap (0.001376s)
+[2024.11.16-12.41.26:201][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.11.16-12.41.26:204][276]LogChaosDD: Creating Chaos Debug Draw Scene for world PlaygroundMap
+[2024.11.16-12.41.26:205][276]LogWorldPartition: ULevel::OnLevelLoaded(PlaygroundMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.16-12.41.26:205][276]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.16-12.41.26:205][276]LogWorldPartition: UWorldPartition::Initialize : World = /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.16-12.41.26:205][276]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.16-12.41.26:206][276]LogWorldPartition: Display: WorldPartition initialize took 717 us (total: 48.772 ms)
+[2024.11.16-12.41.26:206][276]LogPlayLevel: PIE: World Init took: (0.002257s)
+[2024.11.16-12.41.26:206][276]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.11.16-12.41.26:206][276]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.16-12.41.26:206][276]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.16-12.41.26:206][276]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.16-12.41.26:206][276]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.16-12.41.26:206][276]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.16-12.41.26:206][276]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.16-12.41.26:206][276]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.16-12.41.26:206][276]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.16-12.41.26:206][276]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.16-12.41.26:206][276]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.16-12.41.26:206][276]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.16-12.41.26:206][276]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2024.11.16-12.41.26:206][276]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL2'
+[2024.11.16-12.41.26:320][276]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2024.11.16-12.41.26:332][276]LogAudioMixer: Display: Using Audio Hardware Device Family 17h/19h HD Audio Controller Speaker
+[2024.11.16-12.41.26:332][276]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.16-12.41.26:332][276]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.16-12.41.26:332][276]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.16-12.41.26:332][276]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=10
+[2024.11.16-12.41.26:333][276]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.11.16-12.41.26:333][276]LogInit: FAudioDevice initialized with ID 10.
+[2024.11.16-12.41.26:333][276]LogAudio: Display: Audio Device (ID: 10) registered with world 'PlaygroundMap'.
+[2024.11.16-12.41.26:333][276]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.11.16-12.41.26:335][276]LogLoad: Game class is 'BP_GamemodeMain_C'
+[2024.11.16-12.41.26:335][276]LogWorld: Bringing World /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap up for play (max tick rate 0) at 2024.11.16-13.41.26
+[2024.11.16-12.41.26:335][276]LogWorld: Bringing up level for play took: 0.000612
+[2024.11.16-12.41.26:336][276]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.11.16-12.41.26:338][276]PIE: El servidor ha iniciado sesión
+[2024.11.16-12.41.26:339][276]PIE: Tiempo de inicio total de la reproducción en el editor de 0,159 segundos.
+[2024.11.16-12.41.26:352][277]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-12.41.26:369][277]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=73984.00Kb MemTypeIndex=1
+[2024.11.16-12.41.26:384][277]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=7640.00Kb MemTypeIndex=1
+[2024.11.16-12.41.26:386][277]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=30560.00Kb MemTypeIndex=1
+[2024.11.16-12.41.26:392][277]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=32768.00Kb MemTypeIndex=1
+[2024.11.16-12.41.26:398][277]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-12.41.26:410][277]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=16384.00Kb MemTypeIndex=1
+[2024.11.16-12.41.26:414][277]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=32768.00Kb MemTypeIndex=1
+[2024.11.16-12.41.26:420][277]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-12.41.26:432][277]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-12.41.26:444][277]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-12.41.26:457][277]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=16384.00Kb MemTypeIndex=1
+[2024.11.16-12.41.26:461][277]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2024.11.16-12.41.26:464][277]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-12.41.26:478][277]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2368.00Kb MemTypeIndex=1
+[2024.11.16-12.41.26:478][277]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2048.00Kb MemTypeIndex=1
+[2024.11.16-12.41.26:478][277]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2048.00Kb MemTypeIndex=1
+[2024.11.16-12.41.26:478][277]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2048.00Kb MemTypeIndex=1
+[2024.11.16-12.41.26:478][277]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2048.00Kb MemTypeIndex=1
+[2024.11.16-12.41.26:478][277]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2048.00Kb MemTypeIndex=1
+[2024.11.16-12.41.26:810][277]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=30560.00Kb MemTypeIndex=1
+[2024.11.16-12.41.26:819][277]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-12.41.26:837][277]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=7640.00Kb MemTypeIndex=1
+[2024.11.16-12.41.26:842][277]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=3840.00Kb MemTypeIndex=1
+[2024.11.16-12.41.26:926][278]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2024.11.16-12.41.26:937][280]LogTrace: Writing trace snapshot to '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/PIE_Hitch_Rate_3.utrace'...
+[2024.11.16-12.41.26:964][280]LogTrace: Display: Trace snapshot generated in 0.027 seconds to "/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/PIE_Hitch_Rate_3.utrace".
+[2024.11.16-12.41.26:977][280]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2024.11.16-12.41.31:799][375]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 2.0
+[2024.11.16-12.41.32:056][380]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 1.0
+[2024.11.16-12.41.32:262][384]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.41.32:365][386]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-12.41.33:228][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.16-12.41.33:228][402]LogWorld: BeginTearingDown for /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap
+[2024.11.16-12.41.33:228][402]LogWorld: UWorld::CleanupWorld for PlaygroundMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.16-12.41.33:228][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-12.41.33:229][402]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap
+[2024.11.16-12.41.33:290][402]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.16-12.41.33:295][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-12.41.33:315][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.16-12.41.33:315][402]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.11.16-12.41.33:362][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.11.16-12.41.33:402][403]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.11.16-12.41.33:406][403]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=30560.00Kb MemTypeIndex=1
+[2024.11.16-12.41.33:413][404]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2024.11.16-12.41.33:413][404]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=15280.00Kb MemTypeIndex=1
+[2024.11.16-12.41.33:943][421]LogTrace: Warning: Trace file '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Editor_Hitch_Rate_6.utrace' already exists
+[2024.11.16-12.48.57:716][119]LogSlate: Window 'Selector de color' being destroyed
+[2024.11.16-12.49.20:389][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.11.16-12.49.20:396][441]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/JuegoPrueba/mapas/PlaygroundMap' took 0.026
+[2024.11.16-12.49.20:396][441]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/JuegoPrueba/character/BP_muñequito] ([2] browsable assets)...
+[2024.11.16-12.49.20:405][441]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/JuegoPrueba/character/BP_muñequito.BP_muñequito]
+[2024.11.16-12.49.20:405][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/JuegoPrueba/character/BP_muñequito]
+[2024.11.16-12.49.20:414][441]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/JuegoPrueba/character/BP_muñequito_Auto5
+[2024.11.16-12.49.20:414][441]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Saved/BP_muñequito_Auto56A93318D16964AA4858580C714416A49.tmp' to '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Saved/Autosaves/Game/JuegoPrueba/character/BP_muñequito_Auto5.uasset'
+[2024.11.16-12.49.20:414][441]LogFileHelpers: Auto-saving content packages took 0.019
+[2024.11.16-12.49.25:037][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.11.16-12.49.25:056][699]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.16-12.49.25:088][699]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/JuegoPrueba/character/BP_muñequito] ([2] browsable assets)...
+[2024.11.16-12.49.25:111][699]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/JuegoPrueba/character/BP_muñequito.BP_muñequito]
+[2024.11.16-12.49.25:111][699]OBJ SavePackage: Finished generating thumbnails for package [/Game/JuegoPrueba/character/BP_muñequito]
+[2024.11.16-12.49.25:111][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoPrueba/character/BP_muñequito" FILE="../../../../Documents/Unreal Projects/Juego-prueba 5.5/Content/JuegoPrueba/character/BP_muñequito.uasset" SILENT=true
+[2024.11.16-12.49.25:120][699]LogSavePackage: Moving output files for package: /Game/JuegoPrueba/character/BP_muñequito
+[2024.11.16-12.49.25:121][699]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Saved/BP_muñequito58ACD32EB8D247F686ACD3E73B31ADCF.tmp' to '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Content/JuegoPrueba/character/BP_muñequito.uasset'
+[2024.11.16-12.49.25:162][699]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.654 ms (total: 1.14 sec)
+[2024.11.16-12.49.25:199][699]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.16-12.49.25:199][699]LogContentValidation: Enabled validators:
+[2024.11.16-12.49.25:199][699]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.16-12.49.25:199][699]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.16-12.49.25:199][699]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.16-12.49.25:199][699]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.16-12.49.25:199][699]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.16-12.49.25:199][699]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.16-12.49.25:199][699]AssetCheck: /Game/JuegoPrueba/character/BP_muñequito Validando recurso
+[2024.11.16-12.49.25:948][739]LogTrace: Warning: Trace file '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Editor_Hitch_Rate_7.utrace' already exists
+[2024.11.16-12.50.18:477][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.11.16-12.50.18:498][787]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.16-12.50.18:542][787]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/JuegoPrueba/character/BP_muñequito] ([2] browsable assets)...
+[2024.11.16-12.50.18:565][787]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/JuegoPrueba/character/BP_muñequito.BP_muñequito]
+[2024.11.16-12.50.18:565][787]OBJ SavePackage: Finished generating thumbnails for package [/Game/JuegoPrueba/character/BP_muñequito]
+[2024.11.16-12.50.18:565][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoPrueba/character/BP_muñequito" FILE="../../../../Documents/Unreal Projects/Juego-prueba 5.5/Content/JuegoPrueba/character/BP_muñequito.uasset" SILENT=true
+[2024.11.16-12.50.18:574][787]LogSavePackage: Moving output files for package: /Game/JuegoPrueba/character/BP_muñequito
+[2024.11.16-12.50.18:574][787]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Saved/BP_muñequito7B5F55CFE48D4B9F8645E4279E22ECCA.tmp' to '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Content/JuegoPrueba/character/BP_muñequito.uasset'
+[2024.11.16-12.50.18:610][787]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.711 ms (total: 1.25 sec)
+[2024.11.16-12.50.18:677][787]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.16-12.50.18:677][787]LogContentValidation: Enabled validators:
+[2024.11.16-12.50.18:677][787]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.16-12.50.18:677][787]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.16-12.50.18:677][787]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.16-12.50.18:677][787]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.16-12.50.18:677][787]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.16-12.50.18:677][787]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.16-12.50.18:677][787]AssetCheck: /Game/JuegoPrueba/character/BP_muñequito Validando recurso
+[2024.11.16-12.50.19:944][854]LogTrace: Warning: Trace file '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Editor_Hitch_Rate_8.utrace' already exists
+[2024.11.16-12.53.16:586][164]LogSlate: Window 'Selector de color' being destroyed
+[2024.11.16-12.56.11:045][347]LogEditorTransaction: Undo Elimina los elementos seleccionados.
+[2024.11.16-12.56.11:166][347]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.11.16-12.56.47:511][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.11.16-12.56.47:538][409]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.16-12.56.47:581][409]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/JuegoPrueba/character/BP_muñequito] ([2] browsable assets)...
+[2024.11.16-12.56.47:603][409]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/JuegoPrueba/character/BP_muñequito.BP_muñequito]
+[2024.11.16-12.56.47:603][409]OBJ SavePackage: Finished generating thumbnails for package [/Game/JuegoPrueba/character/BP_muñequito]
+[2024.11.16-12.56.47:603][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoPrueba/character/BP_muñequito" FILE="../../../../Documents/Unreal Projects/Juego-prueba 5.5/Content/JuegoPrueba/character/BP_muñequito.uasset" SILENT=true
+[2024.11.16-12.56.47:614][409]LogSavePackage: Moving output files for package: /Game/JuegoPrueba/character/BP_muñequito
+[2024.11.16-12.56.47:614][409]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Saved/BP_muñequito0662F1584C334C60AC8DB6E0871E99B9.tmp' to '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Content/JuegoPrueba/character/BP_muñequito.uasset'
+[2024.11.16-12.56.47:642][409]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.637 ms (total: 1.36 sec)
+[2024.11.16-12.56.47:709][409]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.16-12.56.47:709][409]LogContentValidation: Enabled validators:
+[2024.11.16-12.56.47:709][409]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.16-12.56.47:709][409]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.16-12.56.47:709][409]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.16-12.56.47:709][409]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.16-12.56.47:709][409]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.16-12.56.47:709][409]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.16-12.56.47:709][409]AssetCheck: /Game/JuegoPrueba/character/BP_muñequito Validando recurso
+[2024.11.16-12.56.48:940][473]LogTrace: Warning: Trace file '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Editor_Hitch_Rate_9.utrace' already exists
+[2024.11.16-12.59.38:358][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.11.16-12.59.38:363][218]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/JuegoPrueba/mapas/PlaygroundMap' took 0.025
+[2024.11.16-12.59.38:363][218]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/JuegoPrueba/character/BP_muñequito] ([2] browsable assets)...
+[2024.11.16-12.59.38:372][218]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/JuegoPrueba/character/BP_muñequito.BP_muñequito]
+[2024.11.16-12.59.38:372][218]OBJ SavePackage: Finished generating thumbnails for package [/Game/JuegoPrueba/character/BP_muñequito]
+[2024.11.16-12.59.38:384][218]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/JuegoPrueba/character/BP_muñequito_Auto6
+[2024.11.16-12.59.38:384][218]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Saved/BP_muñequito_Auto661D618C4717840A9802C9C62C5335976.tmp' to '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Saved/Autosaves/Game/JuegoPrueba/character/BP_muñequito_Auto6.uasset'
+[2024.11.16-12.59.38:384][218]LogFileHelpers: Auto-saving content packages took 0.021
+[2024.11.16-13.00.08:880][982]LogSlate: Window 'Selector de color' being destroyed
+[2024.11.16-13.00.13:296][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.11.16-13.00.13:345][231]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.16-13.00.13:389][231]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/JuegoPrueba/character/BP_muñequito] ([2] browsable assets)...
+[2024.11.16-13.00.13:412][231]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/JuegoPrueba/character/BP_muñequito.BP_muñequito]
+[2024.11.16-13.00.13:412][231]OBJ SavePackage: Finished generating thumbnails for package [/Game/JuegoPrueba/character/BP_muñequito]
+[2024.11.16-13.00.13:412][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoPrueba/character/BP_muñequito" FILE="../../../../Documents/Unreal Projects/Juego-prueba 5.5/Content/JuegoPrueba/character/BP_muñequito.uasset" SILENT=true
+[2024.11.16-13.00.13:423][231]LogSavePackage: Moving output files for package: /Game/JuegoPrueba/character/BP_muñequito
+[2024.11.16-13.00.13:423][231]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Saved/BP_muñequito9EAF2F920FD34525A41E5FA015D5D3EB.tmp' to '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Content/JuegoPrueba/character/BP_muñequito.uasset'
+[2024.11.16-13.00.13:458][231]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.813 ms (total: 1.47 sec)
+[2024.11.16-13.00.13:506][231]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.16-13.00.13:506][231]LogContentValidation: Enabled validators:
+[2024.11.16-13.00.13:506][231]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.16-13.00.13:506][231]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.16-13.00.13:506][231]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.16-13.00.13:506][231]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.16-13.00.13:506][231]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.16-13.00.13:506][231]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.16-13.00.13:506][231]AssetCheck: /Game/JuegoPrueba/character/BP_muñequito Validando recurso
+[2024.11.16-13.00.14:404][272]LogTrace: Warning: Trace file '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Editor_Hitch_Rate_0.utrace' already exists
+[2024.11.16-13.00.15:884][334]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2024.11.16-13.00.15:887][334]LogContentBundle: [PlaygroundMap(Autónomo)] Generating Streaming for 0 Content Bundles.
+[2024.11.16-13.00.15:887][334]LogWorldPartition: Display: GenerateStreaming for 'PlaygroundMap' started...
+[2024.11.16-13.00.15:888][334]LogWorldPartition: Display: GenerateStreaming for 'PlaygroundMap' took 803 us (total: 8.619 ms)
+[2024.11.16-13.00.15:888][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.16-13.00.15:888][334]LogPlayLevel: Creating play world package: /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap
+[2024.11.16-13.00.15:890][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001324s)
+[2024.11.16-13.00.15:890][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoPrueba/mapas/PlaygroundMap.PlaygroundMap to /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap (0.001346s)
+[2024.11.16-13.00.15:916][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.11.16-13.00.15:922][334]LogChaosDD: Creating Chaos Debug Draw Scene for world PlaygroundMap
+[2024.11.16-13.00.15:923][334]LogWorldPartition: ULevel::OnLevelLoaded(PlaygroundMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.16-13.00.15:923][334]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.16-13.00.15:923][334]LogWorldPartition: UWorldPartition::Initialize : World = /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.16-13.00.15:923][334]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.16-13.00.15:924][334]LogWorldPartition: Display: WorldPartition initialize took 589 us (total: 49.362 ms)
+[2024.11.16-13.00.15:924][334]LogPlayLevel: PIE: World Init took: (0.001867s)
+[2024.11.16-13.00.15:924][334]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.11.16-13.00.15:924][334]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.16-13.00.15:924][334]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.16-13.00.15:924][334]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.16-13.00.15:924][334]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.16-13.00.15:924][334]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.16-13.00.15:924][334]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.16-13.00.15:924][334]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.16-13.00.15:924][334]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.16-13.00.15:924][334]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.16-13.00.15:924][334]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.16-13.00.15:924][334]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.16-13.00.15:924][334]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2024.11.16-13.00.15:924][334]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL2'
+[2024.11.16-13.00.16:036][334]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2024.11.16-13.00.16:048][334]LogAudioMixer: Display: Using Audio Hardware Device Family 17h/19h HD Audio Controller Speaker
+[2024.11.16-13.00.16:049][334]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.16-13.00.16:049][334]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.16-13.00.16:049][334]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.16-13.00.16:050][334]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=11
+[2024.11.16-13.00.16:051][334]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.11.16-13.00.16:051][334]LogInit: FAudioDevice initialized with ID 11.
+[2024.11.16-13.00.16:051][334]LogAudio: Display: Audio Device (ID: 11) registered with world 'PlaygroundMap'.
+[2024.11.16-13.00.16:051][334]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.11.16-13.00.16:052][334]LogLoad: Game class is 'BP_GamemodeMain_C'
+[2024.11.16-13.00.16:053][334]LogWorld: Bringing World /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap up for play (max tick rate 0) at 2024.11.16-14.00.16
+[2024.11.16-13.00.16:053][334]LogWorld: Bringing up level for play took: 0.000620
+[2024.11.16-13.00.16:054][334]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.11.16-13.00.16:056][334]PIE: El servidor ha iniciado sesión
+[2024.11.16-13.00.16:057][334]PIE: Tiempo de inicio total de la reproducción en el editor de 0,17 segundos.
+[2024.11.16-13.00.16:071][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:099][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=32768.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:106][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:118][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=73984.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:132][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2304.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:133][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2304.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:134][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2304.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:134][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=7640.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:136][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=3840.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:137][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=30560.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:146][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=32768.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:152][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:153][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:165][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:166][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=16384.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:170][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:171][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:171][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=32768.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:179][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:180][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:192][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:193][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:205][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:206][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:218][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:222][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=16384.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:226][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2368.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:227][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:239][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2048.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:240][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2048.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:242][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2048.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:243][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2048.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:244][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2048.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:573][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=30560.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:582][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:595][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=7640.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:597][335]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=3840.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:709][336]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:761][338]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2024.11.16-13.00.16:996][343]LogTrace: Writing trace snapshot to '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/PIE_Hitch_Rate_4.utrace'...
+[2024.11.16-13.00.17:022][343]LogTrace: Display: Trace snapshot generated in 0.026 seconds to "/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/PIE_Hitch_Rate_4.utrace".
+[2024.11.16-13.00.18:493][366]LogDerivedDataCache: /home/migue/.config/Epic/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.16-13.00.22:864][433]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 2.0
+[2024.11.16-13.00.23:951][450]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 1.0
+[2024.11.16-13.00.25:093][467]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-13.00.25:093][467]LogBlueprintUserMessages: [BP_muñequito_C_0] SEMURIO
+[2024.11.16-13.00.27:837][509]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2024.11.16-13.00.33:098][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.16-13.00.33:098][591]LogWorld: BeginTearingDown for /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap
+[2024.11.16-13.00.33:099][591]LogWorld: UWorld::CleanupWorld for PlaygroundMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.16-13.00.33:099][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-13.00.33:099][591]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap
+[2024.11.16-13.00.33:190][591]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.16-13.00.33:196][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-13.00.33:217][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.16-13.00.33:217][591]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.11.16-13.00.33:267][591]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.11.16-13.00.33:291][591]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2024.11.16-13.00.33:329][592]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.11.16-13.00.33:363][593]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=30560.00Kb MemTypeIndex=1
+[2024.11.16-13.00.33:370][594]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2024.11.16-13.00.33:370][594]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=30560.00Kb MemTypeIndex=1
+[2024.11.16-13.00.33:370][594]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2024.11.16-13.00.33:370][594]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=15280.00Kb MemTypeIndex=1
+[2024.11.16-13.00.33:370][594]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2024.11.16-13.00.33:370][594]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=15280.00Kb MemTypeIndex=1
+[2024.11.16-13.00.33:370][594]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2024.11.16-13.00.33:370][594]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=3840.00Kb MemTypeIndex=1
+[2024.11.16-13.00.33:376][595]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2024.11.16-13.00.33:376][595]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=3840.00Kb MemTypeIndex=1
+[2024.11.16-13.00.33:376][595]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2024.11.16-13.00.33:376][595]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=3840.00Kb MemTypeIndex=1
+[2024.11.16-13.00.35:355][663]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2024.11.16-13.00.35:359][663]LogContentBundle: [PlaygroundMap(Autónomo)] Generating Streaming for 0 Content Bundles.
+[2024.11.16-13.00.35:359][663]LogWorldPartition: Display: GenerateStreaming for 'PlaygroundMap' started...
+[2024.11.16-13.00.35:359][663]LogWorldPartition: Display: GenerateStreaming for 'PlaygroundMap' took 763 us (total: 9.383 ms)
+[2024.11.16-13.00.35:360][663]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.16-13.00.35:360][663]LogPlayLevel: Creating play world package: /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap
+[2024.11.16-13.00.35:361][663]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001509s)
+[2024.11.16-13.00.35:361][663]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoPrueba/mapas/PlaygroundMap.PlaygroundMap to /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap (0.001533s)
+[2024.11.16-13.00.35:382][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.11.16-13.00.35:384][663]LogChaosDD: Creating Chaos Debug Draw Scene for world PlaygroundMap
+[2024.11.16-13.00.35:386][663]LogWorldPartition: ULevel::OnLevelLoaded(PlaygroundMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.16-13.00.35:386][663]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.16-13.00.35:386][663]LogWorldPartition: UWorldPartition::Initialize : World = /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.16-13.00.35:386][663]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.16-13.00.35:387][663]LogWorldPartition: Display: WorldPartition initialize took 704 us (total: 50.067 ms)
+[2024.11.16-13.00.35:387][663]LogPlayLevel: PIE: World Init took: (0.002249s)
+[2024.11.16-13.00.35:387][663]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.11.16-13.00.35:387][663]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.16-13.00.35:387][663]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.16-13.00.35:387][663]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.16-13.00.35:387][663]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.16-13.00.35:387][663]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.16-13.00.35:387][663]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.16-13.00.35:387][663]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.16-13.00.35:387][663]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.16-13.00.35:387][663]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.16-13.00.35:387][663]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.16-13.00.35:387][663]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.16-13.00.35:387][663]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2024.11.16-13.00.35:387][663]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL2'
+[2024.11.16-13.00.35:503][663]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2024.11.16-13.00.35:514][663]LogAudioMixer: Display: Using Audio Hardware Device Family 17h/19h HD Audio Controller Speaker
+[2024.11.16-13.00.35:514][663]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.16-13.00.35:514][663]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.16-13.00.35:514][663]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.16-13.00.35:515][663]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=12
+[2024.11.16-13.00.35:515][663]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.11.16-13.00.35:515][663]LogInit: FAudioDevice initialized with ID 12.
+[2024.11.16-13.00.35:515][663]LogAudio: Display: Audio Device (ID: 12) registered with world 'PlaygroundMap'.
+[2024.11.16-13.00.35:515][663]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.11.16-13.00.35:517][663]LogLoad: Game class is 'BP_GamemodeMain_C'
+[2024.11.16-13.00.35:518][663]LogWorld: Bringing World /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap up for play (max tick rate 0) at 2024.11.16-14.00.35
+[2024.11.16-13.00.35:518][663]LogWorld: Bringing up level for play took: 0.000624
+[2024.11.16-13.00.35:518][663]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.11.16-13.00.35:521][663]PIE: El servidor ha iniciado sesión
+[2024.11.16-13.00.35:522][663]PIE: Tiempo de inicio total de la reproducción en el editor de 0,163 segundos.
+[2024.11.16-13.00.35:530][663]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-13.00.35:547][664]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=32768.00Kb MemTypeIndex=1
+[2024.11.16-13.00.35:555][664]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-13.00.35:567][664]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=73984.00Kb MemTypeIndex=1
+[2024.11.16-13.00.35:583][664]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=30560.00Kb MemTypeIndex=1
+[2024.11.16-13.00.35:589][664]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=32768.00Kb MemTypeIndex=1
+[2024.11.16-13.00.35:596][664]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2024.11.16-13.00.35:596][664]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-13.00.35:607][664]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=16384.00Kb MemTypeIndex=1
+[2024.11.16-13.00.35:611][664]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=32768.00Kb MemTypeIndex=1
+[2024.11.16-13.00.35:617][664]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-13.00.35:629][664]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-13.00.35:641][664]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-13.00.35:653][664]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2368.00Kb MemTypeIndex=1
+[2024.11.16-13.00.35:653][664]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=16384.00Kb MemTypeIndex=1
+[2024.11.16-13.00.35:656][664]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-13.00.35:670][664]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2048.00Kb MemTypeIndex=1
+[2024.11.16-13.00.35:670][664]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2048.00Kb MemTypeIndex=1
+[2024.11.16-13.00.35:670][664]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2048.00Kb MemTypeIndex=1
+[2024.11.16-13.00.36:023][664]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=30560.00Kb MemTypeIndex=1
+[2024.11.16-13.00.36:033][664]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-13.00.36:053][664]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=7640.00Kb MemTypeIndex=1
+[2024.11.16-13.00.36:056][664]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=3840.00Kb MemTypeIndex=1
+[2024.11.16-13.00.36:153][667]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2024.11.16-13.00.36:967][683]LogTrace: Writing trace snapshot to '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/PIE_Hitch_Rate_5.utrace'...
+[2024.11.16-13.00.36:992][683]LogTrace: Display: Trace snapshot generated in 0.025 seconds to "/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/PIE_Hitch_Rate_5.utrace".
+[2024.11.16-13.00.38:160][705]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 2.0
+[2024.11.16-13.00.41:047][757]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=30560.00Kb MemTypeIndex=1
+[2024.11.16-13.00.41:055][757]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2024.11.16-13.00.41:055][757]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=15280.00Kb MemTypeIndex=1
+[2024.11.16-13.00.41:149][758]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2024.11.16-13.00.41:149][758]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=3840.00Kb MemTypeIndex=1
+[2024.11.16-13.00.41:330][761]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=30560.00Kb MemTypeIndex=1
+[2024.11.16-13.00.41:338][761]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2024.11.16-13.00.41:338][761]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=15280.00Kb MemTypeIndex=1
+[2024.11.16-13.00.41:401][761]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2024.11.16-13.00.41:401][761]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=15280.00Kb MemTypeIndex=1
+[2024.11.16-13.00.41:401][761]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2024.11.16-13.00.41:401][761]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=3840.00Kb MemTypeIndex=1
+[2024.11.16-13.00.43:957][801]LogTrace: Writing trace snapshot to '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/PIE_Hitch_Rate_6.utrace'...
+[2024.11.16-13.00.43:986][801]LogTrace: Display: Trace snapshot generated in 0.029 seconds to "/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/PIE_Hitch_Rate_6.utrace".
+[2024.11.16-13.00.44:696][812]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 1.0
+[2024.11.16-13.00.45:885][830]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-13.00.45:885][830]LogBlueprintUserMessages: [BP_muñequito_C_0] SEMURIO
+[2024.11.16-13.00.48:618][870]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2024.11.16-13.00.53:675][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.16-13.00.53:675][951]LogWorld: BeginTearingDown for /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap
+[2024.11.16-13.00.53:675][951]LogWorld: UWorld::CleanupWorld for PlaygroundMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.16-13.00.53:676][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-13.00.53:676][951]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap
+[2024.11.16-13.00.53:777][951]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.16-13.00.53:783][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-13.00.53:809][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.16-13.00.53:810][951]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.11.16-13.00.53:857][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.11.16-13.00.53:867][951]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2024.11.16-13.00.53:915][952]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.11.16-13.00.53:919][952]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=30560.00Kb MemTypeIndex=1
+[2024.11.16-13.00.53:936][952]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2024.11.16-13.00.53:936][952]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=30560.00Kb MemTypeIndex=1
+[2024.11.16-13.00.54:990][993]LogTrace: Warning: Trace file '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Editor_Hitch_Rate_1.utrace' already exists
+[2024.11.16-13.01.31:554][456]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2024.11.16-13.01.31:558][456]LogContentBundle: [PlaygroundMap(Autónomo)] Generating Streaming for 0 Content Bundles.
+[2024.11.16-13.01.31:558][456]LogWorldPartition: Display: GenerateStreaming for 'PlaygroundMap' started...
+[2024.11.16-13.01.31:559][456]LogWorldPartition: Display: GenerateStreaming for 'PlaygroundMap' took 705 us (total: 10.089 ms)
+[2024.11.16-13.01.31:559][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.16-13.01.31:594][456]LogPlayLevel: Creating play world package: /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap
+[2024.11.16-13.01.31:596][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001851s)
+[2024.11.16-13.01.31:596][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoPrueba/mapas/PlaygroundMap.PlaygroundMap to /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap (0.001888s)
+[2024.11.16-13.01.31:611][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.11.16-13.01.31:614][456]LogChaosDD: Creating Chaos Debug Draw Scene for world PlaygroundMap
+[2024.11.16-13.01.31:615][456]LogWorldPartition: ULevel::OnLevelLoaded(PlaygroundMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.16-13.01.31:615][456]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.16-13.01.31:615][456]LogWorldPartition: UWorldPartition::Initialize : World = /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.16-13.01.31:615][456]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.16-13.01.31:615][456]LogWorldPartition: Display: WorldPartition initialize took 618 us (total: 50.686 ms)
+[2024.11.16-13.01.31:616][456]LogPlayLevel: PIE: World Init took: (0.001899s)
+[2024.11.16-13.01.31:616][456]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.11.16-13.01.31:616][456]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.16-13.01.31:616][456]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.16-13.01.31:616][456]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.16-13.01.31:616][456]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.16-13.01.31:616][456]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.16-13.01.31:616][456]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.16-13.01.31:616][456]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.16-13.01.31:616][456]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.16-13.01.31:616][456]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.16-13.01.31:616][456]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.16-13.01.31:616][456]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.16-13.01.31:616][456]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2024.11.16-13.01.31:616][456]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL2'
+[2024.11.16-13.01.31:727][456]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2024.11.16-13.01.31:738][456]LogAudioMixer: Display: Using Audio Hardware Device Family 17h/19h HD Audio Controller Speaker
+[2024.11.16-13.01.31:738][456]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.16-13.01.31:738][456]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.16-13.01.31:738][456]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.16-13.01.31:739][456]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=13
+[2024.11.16-13.01.31:739][456]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.11.16-13.01.31:739][456]LogInit: FAudioDevice initialized with ID 13.
+[2024.11.16-13.01.31:739][456]LogAudio: Display: Audio Device (ID: 13) registered with world 'PlaygroundMap'.
+[2024.11.16-13.01.31:739][456]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.11.16-13.01.31:741][456]LogLoad: Game class is 'BP_GamemodeMain_C'
+[2024.11.16-13.01.31:741][456]LogWorld: Bringing World /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap up for play (max tick rate 0) at 2024.11.16-14.01.31
+[2024.11.16-13.01.31:742][456]LogWorld: Bringing up level for play took: 0.000764
+[2024.11.16-13.01.31:742][456]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.11.16-13.01.31:745][456]PIE: El servidor ha iniciado sesión
+[2024.11.16-13.01.31:745][456]PIE: Tiempo de inicio total de la reproducción en el editor de 0,187 segundos.
+[2024.11.16-13.01.31:756][457]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-13.01.31:773][457]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=32768.00Kb MemTypeIndex=1
+[2024.11.16-13.01.31:780][457]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-13.01.31:792][457]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=73984.00Kb MemTypeIndex=1
+[2024.11.16-13.01.31:808][457]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=30560.00Kb MemTypeIndex=1
+[2024.11.16-13.01.31:814][457]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=32768.00Kb MemTypeIndex=1
+[2024.11.16-13.01.31:821][457]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2024.11.16-13.01.31:823][457]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-13.01.31:835][457]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=16384.00Kb MemTypeIndex=1
+[2024.11.16-13.01.31:839][457]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2048.00Kb MemTypeIndex=1
+[2024.11.16-13.01.31:840][457]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=32768.00Kb MemTypeIndex=1
+[2024.11.16-13.01.31:846][457]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2048.00Kb MemTypeIndex=1
+[2024.11.16-13.01.31:847][457]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-13.01.31:861][457]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2048.00Kb MemTypeIndex=1
+[2024.11.16-13.01.31:862][457]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-13.01.31:876][457]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2048.00Kb MemTypeIndex=1
+[2024.11.16-13.01.31:877][457]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-13.01.31:889][457]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2048.00Kb MemTypeIndex=1
+[2024.11.16-13.01.31:890][457]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=16384.00Kb MemTypeIndex=1
+[2024.11.16-13.01.31:894][457]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-13.01.32:134][458]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=30560.00Kb MemTypeIndex=1
+[2024.11.16-13.01.32:257][458]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2024.11.16-13.01.32:287][458]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=7640.00Kb MemTypeIndex=1
+[2024.11.16-13.01.32:289][458]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=3840.00Kb MemTypeIndex=1
+[2024.11.16-13.01.32:410][460]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2024.11.16-13.01.32:969][473]LogTrace: Writing trace snapshot to '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/PIE_Hitch_Rate_7.utrace'...
+[2024.11.16-13.01.32:995][473]LogTrace: Display: Trace snapshot generated in 0.026 seconds to "/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/PIE_Hitch_Rate_7.utrace".
+[2024.11.16-13.01.38:147][574]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 2.0
+[2024.11.16-13.01.38:753][586]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 1.0
+[2024.11.16-13.01.39:509][601]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-13.01.39:509][601]LogBlueprintUserMessages: [BP_muñequito_C_0] SEMURIO
+[2024.11.16-13.01.45:973][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.16-13.01.45:973][729]LogWorld: BeginTearingDown for /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap
+[2024.11.16-13.01.45:973][729]LogWorld: UWorld::CleanupWorld for PlaygroundMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.16-13.01.45:974][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-13.01.45:974][729]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap
+[2024.11.16-13.01.46:045][729]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.16-13.01.46:050][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-13.01.46:072][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.16-13.01.46:072][729]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.11.16-13.01.46:118][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.11.16-13.01.46:155][730]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.11.16-13.01.46:161][731]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2024.11.16-13.01.46:161][731]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=6144.00Kb MemTypeIndex=1
+[2024.11.16-13.01.46:181][732]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=30560.00Kb MemTypeIndex=1
+[2024.11.16-13.01.46:188][732]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2024.11.16-13.01.46:188][732]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=30560.00Kb MemTypeIndex=1
+[2024.11.16-13.01.46:188][732]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2024.11.16-13.01.46:188][732]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=15280.00Kb MemTypeIndex=1
+[2024.11.16-13.01.46:188][732]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2024.11.16-13.01.46:188][732]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=15280.00Kb MemTypeIndex=1
+[2024.11.16-13.01.46:195][733]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2024.11.16-13.01.46:195][733]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=3840.00Kb MemTypeIndex=1
+[2024.11.16-13.01.46:195][733]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2024.11.16-13.01.46:195][733]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=3840.00Kb MemTypeIndex=1
+[2024.11.16-13.01.54:775][953]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [Scalability]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.ViewDistanceScale:0.8]]
+[2024.11.16-13.01.54:775][953]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [Scalability]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.FXAA.Quality:3]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.TemporalAA.Quality:1]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:100]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:2]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:1]]
+[2024.11.16-13.01.54:775][953]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.Shadow.MaxResolution:1024]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.85]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:2048]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-0.5]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-0.5]]
+[2024.11.16-13.01.54:775][953]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@2] File [Scalability]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.AOQuality:1]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.LumenScene.Radiosity.ProbeSpacing:8]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.LumenScene.Radiosity.HemisphereProbeResolution:3]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.Lumen.TraceMeshSDFs.Allow:0]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:16]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:32]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.IrradianceFormat:1]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.StochasticInterpolation:1]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TwoSidedFoliageBackfaceDiffuse:0]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.ScreenTraces.HZBTraversal.FullResDepth:0]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:64]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TraceFromVolume:0]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.RayTracing.Scene.BuildMode:0]]
+[2024.11.16-13.01.54:775][953]LogConfig: Applying CVar settings from Section [ReflectionQuality@2] File [Scalability]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.SSR.Quality:2]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:1]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.Lumen.Reflections.DownsampleFactor:2]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.Lumen.Reflections.MaxRoughnessToTraceForFoliage:0.2]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.MaxRoughnessToEvaluateRoughSpecularForFoliage:0.4]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.TonemapMode:2]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.MinWeight:1]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Allow:0]]
+[2024.11.16-13.01.54:775][953]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [Scalability]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.MotionBlurQuality:3]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.FastBlurThreshold:3]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.Upscale.Quality:2]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.Filter.SizeScale:0.8]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2024.11.16-13.01.54:775][953]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [Scalability]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.MaxAnisotropy:4]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2024.11.16-13.01.54:775][953]LogConsoleManager: Warning: Setting the console variable 'r.Streaming.PoolSize' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '1000'
+[2024.11.16-13.01.54:775][953]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.SceneColorFormat:3]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.DetailMode:1]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.SSS.SampleSet:1]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.SSS.Quality:-1]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.SSS.HalfRes:1]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.SSGI.Quality:2]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.5]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.ParticleLightQuality:1]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[fx.Niagara.QualityLevel:2]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.HeterogeneousVolumes.DownsampleFactor:2]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.HeterogeneousVolumes.MaxStepCount:256]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Resolution:256]]
+[2024.11.16-13.01.54:775][953]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [Scalability]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[foliage.DensityScale:0.8]]
+[2024.11.16-13.01.54:775][953]LogConfig: Set CVar [[grass.DensityScale:0.8]]
+[2024.11.16-13.01.54:775][953]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [Scalability]
+[2024.11.16-13.01.54:775][953]LogConfig: Applying CVar settings from Section [LandscapeQuality@2] File [Scalability]
+[2024.11.16-13.01.54:908][954]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.11.16-13.01.54:908][954]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=262144.00Kb MemTypeIndex=1
+[2024.11.16-13.01.55:014][954]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=262144.00Kb MemTypeIndex=1
+[2024.11.16-13.01.55:068][954]LogPSOHitching: Encountered 50 PSO creation hitches so far (28 graphics, 22 compute). 0 of them were precached.
+[2024.11.16-13.01.55:940][964]LogTrace: Warning: Trace file '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Editor_Hitch_Rate_2.utrace' already exists
+[2024.11.16-13.02.01:971][100]LogTrace: Warning: Trace file '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Editor_Hitch_Rate_3.utrace' already exists
+[2024.11.16-13.02.31:942][873]LogTrace: Warning: Trace file '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Editor_Hitch_Rate_4.utrace' already exists
+[2024.11.16-13.02.48:940][592]LogTrace: Warning: Trace file '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Editor_Hitch_Rate_5.utrace' already exists
+[2024.11.16-13.03.04:967][251]LogTrace: Warning: Trace file '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Editor_Hitch_Rate_6.utrace' already exists
+[2024.11.16-13.04.29:938][ 77]LogTrace: Warning: Trace file '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Editor_Hitch_Rate_7.utrace' already exists
+[2024.11.16-13.04.41:961][561]LogTrace: Warning: Trace file '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Editor_Hitch_Rate_8.utrace' already exists
+[2024.11.16-13.05.18:971][181]LogSlate: Window 'Selector de color' being destroyed
+[2024.11.16-13.05.20:951][252]LogTrace: Warning: Trace file '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Editor_Hitch_Rate_9.utrace' already exists
+[2024.11.16-13.05.26:016][452]LogTrace: Warning: Trace file '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Editor_Hitch_Rate_0.utrace' already exists
+[2024.11.16-13.05.32:935][698]LogTrace: Warning: Trace file '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Editor_Hitch_Rate_1.utrace' already exists
+[2024.11.16-13.06.06:823][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.11.16-13.06.06:872][200]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.16-13.06.06:912][200]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/JuegoPrueba/character/BP_muñequito] ([2] browsable assets)...
+[2024.11.16-13.06.07:134][200]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/JuegoPrueba/character/BP_muñequito.BP_muñequito]
+[2024.11.16-13.06.07:134][200]OBJ SavePackage: Finished generating thumbnails for package [/Game/JuegoPrueba/character/BP_muñequito]
+[2024.11.16-13.06.07:134][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JuegoPrueba/character/BP_muñequito" FILE="../../../../Documents/Unreal Projects/Juego-prueba 5.5/Content/JuegoPrueba/character/BP_muñequito.uasset" SILENT=true
+[2024.11.16-13.06.07:146][200]LogSavePackage: Moving output files for package: /Game/JuegoPrueba/character/BP_muñequito
+[2024.11.16-13.06.07:146][200]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Saved/BP_muñequito0697614F67514264ADEBA963634987DF.tmp' to '../../../../Documents/Unreal Projects/Juego-prueba 5.5/Content/JuegoPrueba/character/BP_muñequito.uasset'
+[2024.11.16-13.06.07:175][200]LogFileHelpers: InternalPromptForCheckoutAndSave took 302.912 ms (total: 1.77 sec)
+[2024.11.16-13.06.07:215][200]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.16-13.06.07:215][200]LogContentValidation: Enabled validators:
+[2024.11.16-13.06.07:215][200]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.16-13.06.07:215][200]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.16-13.06.07:215][200]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.16-13.06.07:215][200]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.16-13.06.07:215][200]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.16-13.06.07:215][200]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.16-13.06.07:216][200]AssetCheck: /Game/JuegoPrueba/character/BP_muñequito Validando recurso
+[2024.11.16-13.06.07:605][201]LogTrace: Warning: Trace file '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Editor_Hitch_Rate_2.utrace' already exists
+[2024.11.16-13.06.09:199][243]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2024.11.16-13.06.09:202][243]LogContentBundle: [PlaygroundMap(Autónomo)] Generating Streaming for 0 Content Bundles.
+[2024.11.16-13.06.09:202][243]LogWorldPartition: Display: GenerateStreaming for 'PlaygroundMap' started...
+[2024.11.16-13.06.09:203][243]LogWorldPartition: Display: GenerateStreaming for 'PlaygroundMap' took 722 us (total: 10.811 ms)
+[2024.11.16-13.06.09:203][243]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.16-13.06.09:203][243]LogPlayLevel: Creating play world package: /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap
+[2024.11.16-13.06.09:205][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001364s)
+[2024.11.16-13.06.09:205][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoPrueba/mapas/PlaygroundMap.PlaygroundMap to /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap (0.001392s)
+[2024.11.16-13.06.09:227][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.11.16-13.06.09:234][243]LogChaosDD: Creating Chaos Debug Draw Scene for world PlaygroundMap
+[2024.11.16-13.06.09:235][243]LogWorldPartition: ULevel::OnLevelLoaded(PlaygroundMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.16-13.06.09:235][243]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.16-13.06.09:235][243]LogWorldPartition: UWorldPartition::Initialize : World = /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.16-13.06.09:235][243]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.16-13.06.09:236][243]LogWorldPartition: Display: WorldPartition initialize took 708 us (total: 51.394 ms)
+[2024.11.16-13.06.09:236][243]LogPlayLevel: PIE: World Init took: (0.002178s)
+[2024.11.16-13.06.09:236][243]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.11.16-13.06.09:236][243]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.16-13.06.09:236][243]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.16-13.06.09:236][243]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.16-13.06.09:236][243]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.16-13.06.09:236][243]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.16-13.06.09:236][243]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.16-13.06.09:236][243]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.16-13.06.09:236][243]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.16-13.06.09:236][243]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.16-13.06.09:236][243]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.16-13.06.09:236][243]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.16-13.06.09:236][243]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2024.11.16-13.06.09:236][243]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL2'
+[2024.11.16-13.06.09:352][243]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2024.11.16-13.06.09:366][243]LogAudioMixer: Display: Using Audio Hardware Device Family 17h/19h HD Audio Controller Speaker
+[2024.11.16-13.06.09:366][243]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.16-13.06.09:366][243]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.16-13.06.09:366][243]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.16-13.06.09:367][243]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=14
+[2024.11.16-13.06.09:367][243]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.11.16-13.06.09:367][243]LogInit: FAudioDevice initialized with ID 14.
+[2024.11.16-13.06.09:367][243]LogAudio: Display: Audio Device (ID: 14) registered with world 'PlaygroundMap'.
+[2024.11.16-13.06.09:367][243]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.11.16-13.06.09:369][243]LogLoad: Game class is 'BP_GamemodeMain_C'
+[2024.11.16-13.06.09:370][243]LogWorld: Bringing World /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap up for play (max tick rate 0) at 2024.11.16-14.06.09
+[2024.11.16-13.06.09:370][243]LogWorld: Bringing up level for play took: 0.000673
+[2024.11.16-13.06.09:370][243]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2024.11.16-13.06.09:373][243]PIE: El servidor ha iniciado sesión
+[2024.11.16-13.06.09:374][243]PIE: Tiempo de inicio total de la reproducción en el editor de 0,171 segundos.
+[2024.11.16-13.06.10:632][245]LogTrace: Writing trace snapshot to '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/PIE_Hitch_Rate_8.utrace'...
+[2024.11.16-13.06.10:655][245]LogTrace: Display: Trace snapshot generated in 0.024 seconds to "/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/PIE_Hitch_Rate_8.utrace".
+[2024.11.16-13.06.12:125][277]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 2.0
+[2024.11.16-13.06.12:588][281]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 1.0
+[2024.11.16-13.06.12:588][281]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-13.06.12:775][284]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-13.06.15:354][315]LogGlobalStatus: Browse Started Browse: "/Game/JuegoPrueba/mapas/PlaygroundMap"
+[2024.11.16-13.06.15:354][315]LogNet: Browse: /Game/JuegoPrueba/mapas/PlaygroundMap
+[2024.11.16-13.06.15:354][315]LogLoad: LoadMap: /Game/JuegoPrueba/mapas/PlaygroundMap
+[2024.11.16-13.06.15:354][315]LogWorld: BeginTearingDown for /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap
+[2024.11.16-13.06.15:355][315]LogWorld: UWorld::CleanupWorld for PlaygroundMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.16-13.06.15:355][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-13.06.15:355][315]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap
+[2024.11.16-13.06.15:434][315]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.16-13.06.15:436][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.11.16-13.06.15:439][315]LogPlayLevel: Creating play world package: /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap
+[2024.11.16-13.06.15:441][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001600s)
+[2024.11.16-13.06.15:441][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoPrueba/mapas/PlaygroundMap.PlaygroundMap to /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap (0.001642s)
+[2024.11.16-13.06.15:441][315]LogAudio: Display: Audio Device (ID: 14) registered with world 'PlaygroundMap'.
+[2024.11.16-13.06.15:441][315]LogChaosDD: Creating Chaos Debug Draw Scene for world PlaygroundMap
+[2024.11.16-13.06.15:442][315]LogWorldPartition: ULevel::OnLevelLoaded(PlaygroundMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.16-13.06.15:442][315]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.16-13.06.15:442][315]LogWorldPartition: UWorldPartition::Initialize : World = /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.16-13.06.15:442][315]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.16-13.06.15:443][315]LogWorldPartition: Display: WorldPartition initialize took 564 us (total: 51.959 ms)
+[2024.11.16-13.06.15:443][315]LogPlayLevel: PIE: World Init took: (0.001876s)
+[2024.11.16-13.06.15:443][315]LogLoad: Game class is 'BP_GamemodeMain_C'
+[2024.11.16-13.06.15:443][315]LogWorld: Bringing World /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap up for play (max tick rate 0) at 2024.11.16-14.06.15
+[2024.11.16-13.06.15:444][315]LogWorld: Bringing up level for play took: 0.000582
+[2024.11.16-13.06.15:446][315]LogLoad: Took 0.092379 seconds to LoadMap(/Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap)
+[2024.11.16-13.06.15:446][315]LogGlobalStatus: LoadMap Load map complete /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap
+[2024.11.16-13.06.16:294][319]LogRHI: Timed out while waiting for GPU to catch up on occlusion results. (0.5 s)
+[2024.11.16-13.06.19:677][383]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 2.0
+[2024.11.16-13.06.20:028][386]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 1.0
+[2024.11.16-13.06.20:195][388]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-13.06.23:119][456]LogGlobalStatus: Browse Started Browse: "/Game/JuegoPrueba/mapas/PlaygroundMap"
+[2024.11.16-13.06.23:119][456]LogNet: Browse: /Game/JuegoPrueba/mapas/PlaygroundMap
+[2024.11.16-13.06.23:119][456]LogLoad: LoadMap: /Game/JuegoPrueba/mapas/PlaygroundMap
+[2024.11.16-13.06.23:119][456]LogWorld: BeginTearingDown for /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap
+[2024.11.16-13.06.23:120][456]LogWorld: UWorld::CleanupWorld for PlaygroundMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.16-13.06.23:120][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-13.06.23:120][456]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap
+[2024.11.16-13.06.23:214][456]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.16-13.06.23:216][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.11.16-13.06.23:218][456]LogPlayLevel: Creating play world package: /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap
+[2024.11.16-13.06.23:220][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001532s)
+[2024.11.16-13.06.23:220][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoPrueba/mapas/PlaygroundMap.PlaygroundMap to /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap (0.001573s)
+[2024.11.16-13.06.23:220][456]LogAudio: Display: Audio Device (ID: 14) registered with world 'PlaygroundMap'.
+[2024.11.16-13.06.23:220][456]LogChaosDD: Creating Chaos Debug Draw Scene for world PlaygroundMap
+[2024.11.16-13.06.23:221][456]LogWorldPartition: ULevel::OnLevelLoaded(PlaygroundMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.16-13.06.23:221][456]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.16-13.06.23:221][456]LogWorldPartition: UWorldPartition::Initialize : World = /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.16-13.06.23:221][456]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.16-13.06.23:222][456]LogWorldPartition: Display: WorldPartition initialize took 739 us (total: 52.699 ms)
+[2024.11.16-13.06.23:222][456]LogPlayLevel: PIE: World Init took: (0.002009s)
+[2024.11.16-13.06.23:222][456]LogLoad: Game class is 'BP_GamemodeMain_C'
+[2024.11.16-13.06.23:223][456]LogWorld: Bringing World /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap up for play (max tick rate 0) at 2024.11.16-14.06.23
+[2024.11.16-13.06.23:223][456]LogWorld: Bringing up level for play took: 0.000622
+[2024.11.16-13.06.23:225][456]LogLoad: Took 0.106153 seconds to LoadMap(/Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap)
+[2024.11.16-13.06.23:225][456]LogGlobalStatus: LoadMap Load map complete /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap
+[2024.11.16-13.06.24:075][460]LogRHI: Timed out while waiting for GPU to catch up on occlusion results. (0.5 s)
+[2024.11.16-13.06.24:392][461]LogTrace: Writing trace snapshot to '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/PIE_Hitch_Rate_9.utrace'...
+[2024.11.16-13.06.24:419][461]LogTrace: Display: Trace snapshot generated in 0.027 seconds to "/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/PIE_Hitch_Rate_9.utrace".
+[2024.11.16-13.06.27:308][629]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 2.0
+[2024.11.16-13.06.27:474][639]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 1.0
+[2024.11.16-13.06.27:558][644]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-13.06.27:673][649]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-13.06.27:774][655]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-13.06.27:912][663]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-13.06.28:044][670]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-13.06.28:187][675]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-13.06.28:361][679]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-13.06.28:533][681]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-13.06.28:784][685]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-13.06.28:872][686]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-13.06.28:923][687]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-13.06.29:188][689]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-13.06.29:390][698]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-13.06.29:646][709]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-13.06.29:793][715]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-13.06.29:922][720]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-13.06.29:952][721]LogTrace: Writing trace snapshot to '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/PIE_Hitch_Rate_0.utrace'...
+[2024.11.16-13.06.29:982][721]LogTrace: Display: Trace snapshot generated in 0.030 seconds to "/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/PIE_Hitch_Rate_0.utrace".
+[2024.11.16-13.06.29:989][722]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-13.06.30:122][725]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-13.06.30:365][735]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-13.06.30:440][738]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-13.06.30:568][744]LogGlobalStatus: Browse Started Browse: "/Game/JuegoPrueba/mapas/PlaygroundMap"
+[2024.11.16-13.06.30:568][744]LogNet: Browse: /Game/JuegoPrueba/mapas/PlaygroundMap
+[2024.11.16-13.06.30:568][744]LogLoad: LoadMap: /Game/JuegoPrueba/mapas/PlaygroundMap
+[2024.11.16-13.06.30:568][744]LogWorld: BeginTearingDown for /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap
+[2024.11.16-13.06.30:569][744]LogWorld: UWorld::CleanupWorld for PlaygroundMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.16-13.06.30:570][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-13.06.30:570][744]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap
+[2024.11.16-13.06.30:628][744]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.16-13.06.30:629][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.11.16-13.06.30:633][744]LogPlayLevel: Creating play world package: /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap
+[2024.11.16-13.06.30:634][744]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001448s)
+[2024.11.16-13.06.30:634][744]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoPrueba/mapas/PlaygroundMap.PlaygroundMap to /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap (0.001487s)
+[2024.11.16-13.06.30:634][744]LogAudio: Display: Audio Device (ID: 14) registered with world 'PlaygroundMap'.
+[2024.11.16-13.06.30:634][744]LogChaosDD: Creating Chaos Debug Draw Scene for world PlaygroundMap
+[2024.11.16-13.06.30:635][744]LogWorldPartition: ULevel::OnLevelLoaded(PlaygroundMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.16-13.06.30:635][744]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.16-13.06.30:635][744]LogWorldPartition: UWorldPartition::Initialize : World = /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.16-13.06.30:635][744]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.16-13.06.30:636][744]LogWorldPartition: Display: WorldPartition initialize took 504 us (total: 53.203 ms)
+[2024.11.16-13.06.30:636][744]LogPlayLevel: PIE: World Init took: (0.001661s)
+[2024.11.16-13.06.30:636][744]LogLoad: Game class is 'BP_GamemodeMain_C'
+[2024.11.16-13.06.30:636][744]LogWorld: Bringing World /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap up for play (max tick rate 0) at 2024.11.16-14.06.30
+[2024.11.16-13.06.30:636][744]LogWorld: Bringing up level for play took: 0.000533
+[2024.11.16-13.06.30:639][744]LogLoad: Took 0.070729 seconds to LoadMap(/Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap)
+[2024.11.16-13.06.30:639][744]LogGlobalStatus: LoadMap Load map complete /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap
+[2024.11.16-13.06.30:646][745]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 2.0
+[2024.11.16-13.06.30:985][748]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 1.0
+[2024.11.16-13.06.31:484][748]LogRHI: Timed out while waiting for GPU to catch up on occlusion results. (0.5 s)
+[2024.11.16-13.06.31:815][749]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-13.06.31:815][749]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-13.06.31:815][749]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-13.06.31:815][749]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-13.06.31:815][749]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-13.06.31:836][750]LogBlueprintUserMessages: [BP_muñequito_C_0] Health: 0.0
+[2024.11.16-13.06.31:936][754]LogTrace: Warning: Trace file '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/PIE_Hitch_Rate_1.utrace' already exists
+[2024.11.16-13.06.34:439][824]LogGlobalStatus: Browse Started Browse: "/Game/JuegoPrueba/mapas/PlaygroundMap"
+[2024.11.16-13.06.34:439][824]LogNet: Browse: /Game/JuegoPrueba/mapas/PlaygroundMap
+[2024.11.16-13.06.34:439][824]LogLoad: LoadMap: /Game/JuegoPrueba/mapas/PlaygroundMap
+[2024.11.16-13.06.34:439][824]LogWorld: BeginTearingDown for /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap
+[2024.11.16-13.06.34:440][824]LogWorld: UWorld::CleanupWorld for PlaygroundMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.16-13.06.34:440][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-13.06.34:440][824]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap
+[2024.11.16-13.06.34:487][824]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.16-13.06.34:488][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.11.16-13.06.34:491][824]LogPlayLevel: Creating play world package: /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap
+[2024.11.16-13.06.34:493][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001632s)
+[2024.11.16-13.06.34:493][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JuegoPrueba/mapas/PlaygroundMap.PlaygroundMap to /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap (0.001676s)
+[2024.11.16-13.06.34:493][824]LogAudio: Display: Audio Device (ID: 14) registered with world 'PlaygroundMap'.
+[2024.11.16-13.06.34:493][824]LogChaosDD: Creating Chaos Debug Draw Scene for world PlaygroundMap
+[2024.11.16-13.06.34:494][824]LogWorldPartition: ULevel::OnLevelLoaded(PlaygroundMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.16-13.06.34:494][824]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.16-13.06.34:494][824]LogWorldPartition: UWorldPartition::Initialize : World = /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.16-13.06.34:494][824]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.16-13.06.34:495][824]LogWorldPartition: Display: WorldPartition initialize took 584 us (total: 53.788 ms)
+[2024.11.16-13.06.34:495][824]LogPlayLevel: PIE: World Init took: (0.001853s)
+[2024.11.16-13.06.34:495][824]LogLoad: Game class is 'BP_GamemodeMain_C'
+[2024.11.16-13.06.34:495][824]LogWorld: Bringing World /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap up for play (max tick rate 0) at 2024.11.16-14.06.34
+[2024.11.16-13.06.34:495][824]LogWorld: Bringing up level for play took: 0.000501
+[2024.11.16-13.06.34:498][824]LogLoad: Took 0.058943 seconds to LoadMap(/Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap)
+[2024.11.16-13.06.34:498][824]LogGlobalStatus: LoadMap Load map complete /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap
+[2024.11.16-13.06.35:340][828]LogRHI: Timed out while waiting for GPU to catch up on occlusion results. (0.5 s)
+[2024.11.16-13.06.36:013][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.16-13.06.36:013][832]LogWorld: BeginTearingDown for /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap
+[2024.11.16-13.06.36:013][832]LogWorld: UWorld::CleanupWorld for PlaygroundMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.16-13.06.36:013][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-13.06.36:013][832]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/JuegoPrueba/mapas/UEDPIE_0_PlaygroundMap.PlaygroundMap
+[2024.11.16-13.06.36:125][832]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.16-13.06.36:130][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-13.06.36:147][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.16-13.06.36:147][832]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.11.16-13.06.36:195][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.11.16-13.06.36:222][833]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2024.11.16-13.06.40:945][981]LogTrace: Warning: Trace file '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Editor_Hitch_Rate_3.utrace' already exists
+[2024.11.16-13.06.42:955][ 50]LogTrace: Warning: Trace file '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Editor_Hitch_Rate_4.utrace' already exists
+[2024.11.16-13.09.07:957][345]LogTrace: Warning: Trace file '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Editor_Hitch_Rate_5.utrace' already exists
+[2024.11.16-13.09.43:938][626]LogTrace: Warning: Trace file '/home/migue/Documents/Documents/Unreal Projects/Juego-prueba 5.5/Saved/EditorPerformance/Editor_Hitch_Rate_6.utrace' already exists
+[2024.11.16-13.09.51:865][ 65]LogSlate: Window 'Selector de color' being destroyed
+[2024.11.16-13.09.53:865][173]LogSlate: Window 'Preferencias del editor' being destroyed
+[2024.11.16-13.09.53:922][173]LogSlate: Window 'Preferencias del editor' being destroyed
+[2024.11.16-13.10.05:440][780]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.11.16-13.10.05:445][780]LogContentBrowser: Creating deferred item: NewFolder
+[2024.11.16-13.10.05:452][781]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.11.16-13.10.09:473][ 25]LogContentBrowser: Attempting asset rename: NewFolder -> Elements
+[2024.11.16-13.10.09:473][ 25]LogContentBrowser: End creating deferred item NewFolder
